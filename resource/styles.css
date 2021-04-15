@@ -1,0 +1,30 @@
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+li {
+    float: left;
+}
+
+ul {
+    background-color: #dddddd;
+}
+
+
+
+.background-color-main{
+    background-color: #7EA0B7
+}
+.container-1{
+    background-color: #597081;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+.paragraph-container{
+    color:white;
+    background-color: #A9CEF4
+}
