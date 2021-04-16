@@ -1,111 +1,111 @@
-Rank,Country,cost index,Ø Monthly income,Purchasing power index
-1,Bermuda,157.6,"9,811 USD",113.5
-2,Cayman Islands,138.0,"3,943 USD",52.1
-3,Switzerland,129.5,"7,125 USD",100.3
-4,Iceland,125.0,"6,071 USD",88.5
-5,Turks and Caicos Islands,124.6,"2,362 USD",34.5
-6,Barbados,122.1,"1,448 USD",21.6
-7,New Caledonia,119.2,"1,168 USD",17.9
-8,Norway,113.6,"6,875 USD",110.3
-9,Israel,113.2,"3,593 USD",57.8
-10,Bahamas,110.9,"2,788 USD",45.8
-11,Denmark,110.8,"5,329 USD",87.7
-12,Ireland,106.6,"5,333 USD",91.2
-13,Australia,104.9,"4,592 USD",79.8
-14,Luxembourg,103.9,"6,159 USD",108.0
-15,United States,100.0,"5,488 USD",100.0
-16,Japan,99.6,"3,476 USD",63.6
-17,New Zealand,99.3,"3,563 USD",65.4
-18,Finland,98.9,"4,168 USD",76.8
-19,Sweden,96.8,"4,648 USD",87.5
-20,Canada,95.2,"3,864 USD",74.0
-21,United Kingdom,95.0,"3,518 USD",67.5
-22,Netherlands,91.8,"4,425 USD",87.8
-23,Belgium,90.7,"4,003 USD",80.5
-24,Austria,89.6,"4,288 USD",87.2
-25,France,89.3,"3,538 USD",72.2
-26,Germany,84.5,"4,048 USD",87.3
-27,Hong Kong,80.5,"4,233 USD",95.9
-28,Italy,80.1,"2,878 USD",65.5
-29,South Korea,79.9,"2,816 USD",64.2
-30,Singapore,76.7,"4,966 USD",118.0
-31,Qatar,75.9,"5,098 USD",122.5
-32,Spain,75.8,"2,533 USD",60.9
-33,United Arab Emirates,74.8,"3,623 USD",88.3
-34,Macao,74.0,"6,553 USD",161.3
-35,Portugal,68.9,"1,933 USD",51.1
-36,Greece,67.9,"1,646 USD",44.1
-37,Estonia,67.2,"1,938 USD",52.6
-38,Chile,63.1,"1,251 USD",36.1
-39,Brazil,60.9,761 USD,22.8
-40,China,60.4,866 USD,26.1
-41,Kuwait,60.1,"2,799 USD",84.9
-42,Czechia,59.1,"1,828 USD",56.4
-43,Costa Rica,58.4,975 USD,30.4
-44,Peru,56.3,562 USD,18.2
-45,Croatia,55.8,"1,248 USD",40.8
-46,Ecuador,55.1,508 USD,16.8
-47,Mexico,53.8,790 USD,26.7
-48,Bahrain,53.5,"1,843 USD",62.7
-49,Hungary,52.6,"1,375 USD",47.7
-50,Iran,52.4,442 USD,15.4
-51,Equatorial Guinea,51.1,538 USD,19.2
-52,El Salvador,50.0,333 USD,12.2
-53,South Africa,47.3,503 USD,19.4
-54,Poland,47.3,"1,279 USD",49.3
-55,Albania,45.1,435 USD,17.6
-56,Montenegro,44.7,755 USD,30.8
-57,Serbia,44.3,586 USD,24.1
-58,Saudi Arabia,44.2,"1,903 USD",78.5
-59,Morocco,43.7,266 USD,11.1
-60,Colombia,43.6,543 USD,22.7
-61,Romania,43.3,"1,053 USD",44.3
-62,Suriname,42.1,452 USD,19.5
-63,Timor-Leste,41.9,168 USD,7.3
-64,Bulgaria,41.8,798 USD,34.8
-65,Thailand,41.8,605 USD,26.4
-66,Paraguay,41.7,460 USD,20.1
-67,Kenya,41.7,146 USD,6.4
-68,Malaysia,40.6,936 USD,42.0
-69,Cameroon,40.2,125 USD,5.7
-70,Ivory Coast,40.0,191 USD,8.7
-71,Senegal,39.8,122 USD,5.6
-72,Kosovo,39.7,387 USD,17.7
-73,Angola,39.5,247 USD,11.4
-74,Russia,39.2,938 USD,43.6
-75,Macedonia,39.0,487 USD,22.7
-76,Philippines,38.7,321 USD,15.1
-77,Lesotho,37.9,115 USD,5.5
-78,Bolivia,37.8,293 USD,14.2
-79,Moldova,37.6,383 USD,18.5
-80,Bangladesh,37.4,162 USD,7.9
-81,Nigeria,37.3,169 USD,8.3
-82,Turkey,37.2,808 USD,39.6
-83,Nicaragua,36.9,158 USD,7.8
-84,Zambia,36.8,119 USD,5.9
-85,Cambodia,36.8,128 USD,6.3
-86,Indonesia,36.7,338 USD,16.8
-87,Laos,36.4,214 USD,10.7
-88,Mongolia,36.1,316 USD,15.9
-89,Benin,35.8,104 USD,5.3
-90,Ghana,35.3,185 USD,9.5
-91,Armenia,34.7,390 USD,20.5
-92,Vietnam,34.3,216 USD,11.5
-93,Kazakhstan,32.7,735 USD,40.9
-94,Algeria,32.6,334 USD,18.7
-95,Sri Lanka,31.5,335 USD,19.4
-96,Ukraine,31.1,281 USD,16.4
-97,India,29.9,177 USD,10.8
-98,Bhutan,29.5,262 USD,16.2
-99,Azerbaijan,28.8,373 USD,23.7
-100,Burma,28.6,116 USD,7.4
-101,Nepal,28.6,91 USD,5.8
-102,Tunisia,27.9,281 USD,18.4
-103,Kyrgyzstan,27.3,103 USD,6.9
-104,Tajikistan,27.2,86 USD,5.7
-105,Georgia,26.9,398 USD,27.0
-106,Pakistan,24.7,118 USD,8.7
-107,Egypt,22.6,224 USD,18.1
-108,Argentina,22.5,928 USD,75.2
-109,Uzbekistan,17.3,150 USD,15.8
-110,Congo,17.1,143 USD,15.2
+Rank,Country,cost index,Ø Monthly income,,Purchasing power index
+1,Bermuda,157.6,"9,811 USD",#VALUE!,113.5
+2,Cayman Islands,138,"3,943 USD",,52.1
+3,Switzerland,129.5,"7,125 USD",,100.3
+4,Iceland,125,"6,071 USD",,88.5
+5,Turks and Caicos Islands,124.6,"2,362 USD",,34.5
+6,Barbados,122.1,"1,448 USD",,21.6
+7,New Caledonia,119.2,"1,168 USD",,17.9
+8,Norway,113.6,"6,875 USD",,110.3
+9,Israel,113.2,"3,593 USD",,57.8
+10,Bahamas,110.9,"2,788 USD",,45.8
+11,Denmark,110.8,"5,329 USD",,87.7
+12,Ireland,106.6,"5,333 USD",,91.2
+13,Australia,104.9,"4,592 USD",0.007976499,79.8
+14,Luxembourg,103.9,"6,159 USD",0.01081895,108
+15,United States,100,"5,488 USD","5,488 USD",100
+16,Japan,99.6,"3,476 USD",,63.6
+17,New Zealand,99.3,"3,563 USD",,65.4
+18,Finland,98.9,"4,168 USD",,76.8
+19,Sweden,96.8,"4,648 USD",,87.5
+20,Canada,95.2,"3,864 USD",,74
+21,United Kingdom,95,"3,518 USD",,67.5
+22,Netherlands,91.8,"4,425 USD",,87.8
+23,Belgium,90.7,"4,003 USD",,80.5
+24,Austria,89.6,"4,288 USD",,87.2
+25,France,89.3,"3,538 USD",,72.2
+26,Germany,84.5,"4,048 USD",,87.3
+27,Hong Kong,80.5,"4,233 USD",,95.9
+28,Italy,80.1,"2,878 USD",,65.5
+29,South Korea,79.9,"2,816 USD",,64.2
+30,Singapore,76.7,"4,966 USD",,118
+31,Qatar,75.9,"5,098 USD",,122.5
+32,Spain,75.8,"2,533 USD",,60.9
+33,United Arab Emirates,74.8,"3,623 USD",,88.3
+34,Macao,74,"6,553 USD",,161.3
+35,Portugal,68.9,"1,933 USD",,51.1
+36,Greece,67.9,"1,646 USD",,44.1
+37,Estonia,67.2,"1,938 USD",,52.6
+38,Chile,63.1,"1,251 USD",,36.1
+39,Brazil,60.9,761 USD,,22.8
+40,China,60.4,866 USD,,26.1
+41,Kuwait,60.1,"2,799 USD",,84.9
+42,Czechia,59.1,"1,828 USD",,56.4
+43,Costa Rica,58.4,975 USD,,30.4
+44,Peru,56.3,562 USD,,18.2
+45,Croatia,55.8,"1,248 USD",,40.8
+46,Ecuador,55.1,508 USD,,16.8
+47,Mexico,53.8,790 USD,,26.7
+48,Bahrain,53.5,"1,843 USD",,62.7
+49,Hungary,52.6,"1,375 USD",,47.7
+50,Iran,52.4,442 USD,,15.4
+51,Equatorial Guinea,51.1,538 USD,,19.2
+52,El Salvador,50,333 USD,,12.2
+53,South Africa,47.3,503 USD,,19.4
+54,Poland,47.3,"1,279 USD",,49.3
+55,Albania,45.1,435 USD,,17.6
+56,Montenegro,44.7,755 USD,,30.8
+57,Serbia,44.3,586 USD,,24.1
+58,Saudi Arabia,44.2,"1,903 USD",,78.5
+59,Morocco,43.7,266 USD,,11.1
+60,Colombia,43.6,543 USD,,22.7
+61,Romania,43.3,"1,053 USD",,44.3
+62,Suriname,42.1,452 USD,,19.5
+63,Timor-Leste,41.9,168 USD,,7.3
+64,Bulgaria,41.8,798 USD,,34.8
+65,Thailand,41.8,605 USD,,26.4
+66,Paraguay,41.7,460 USD,,20.1
+67,Kenya,41.7,146 USD,,6.4
+68,Malaysia,40.6,936 USD,,42
+69,Cameroon,40.2,125 USD,,5.7
+70,Ivory Coast,40,191 USD,,8.7
+71,Senegal,39.8,122 USD,,5.6
+72,Kosovo,39.7,387 USD,,17.7
+73,Angola,39.5,247 USD,,11.4
+74,Russia,39.2,938 USD,,43.6
+75,Macedonia,39,487 USD,,22.7
+76,Philippines,38.7,321 USD,,15.1
+77,Lesotho,37.9,115 USD,,5.5
+78,Bolivia,37.8,293 USD,,14.2
+79,Moldova,37.6,383 USD,,18.5
+80,Bangladesh,37.4,162 USD,,7.9
+81,Nigeria,37.3,169 USD,,8.3
+82,Turkey,37.2,808 USD,,39.6
+83,Nicaragua,36.9,158 USD,,7.8
+84,Zambia,36.8,119 USD,,5.9
+85,Cambodia,36.8,128 USD,,6.3
+86,Indonesia,36.7,338 USD,,16.8
+87,Laos,36.4,214 USD,,10.7
+88,Mongolia,36.1,316 USD,,15.9
+89,Benin,35.8,104 USD,,5.3
+90,Ghana,35.3,185 USD,,9.5
+91,Armenia,34.7,390 USD,,20.5
+92,Vietnam,34.3,216 USD,,11.5
+93,Kazakhstan,32.7,735 USD,,40.9
+94,Algeria,32.6,334 USD,,18.7
+95,Sri Lanka,31.5,335 USD,,19.4
+96,Ukraine,31.1,281 USD,,16.4
+97,India,29.9,177 USD,,10.8
+98,Bhutan,29.5,262 USD,,16.2
+99,Azerbaijan,28.8,373 USD,,23.7
+100,Burma,28.6,116 USD,,7.4
+101,Nepal,28.6,91 USD,,5.8
+102,Tunisia,27.9,281 USD,,18.4
+103,Kyrgyzstan,27.3,103 USD,,6.9
+104,Tajikistan,27.2,86 USD,,5.7
+105,Georgia,26.9,398 USD,,27
+106,Pakistan,24.7,118 USD,,8.7
+107,Egypt,22.6,224 USD,,18.1
+108,Argentina,22.5,928 USD,,75.2
+109,Uzbekistan,17.3,150 USD,,15.8
+110,Congo,17.1,143 USD,,15.2
