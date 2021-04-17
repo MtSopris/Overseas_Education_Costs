@@ -3,15 +3,15 @@ from flask_pymongo import PyMongo
 import pymongo
 from bson.json_util import dumps, loads
 # Dictionary of Justice League
-justice_league_members = [
-    {"superhero": "Aquaman", "real_name": "Arthur Curry"},
-    {"superhero": "Batman", "real_name": "Bruce Wayne"},
-    {"superhero": "Cyborg", "real_name": "Victor Stone"},
-    {"superhero": "Flash", "real_name": "Barry Allen"},
-    {"superhero": "Green Lantern", "real_name": "Hal Jordan"},
-    {"superhero": "Superman", "real_name": "Clark Kent/Kal-El"},
-    {"superhero": "Wonder Woman", "real_name": "Princess Diana"}
-]
+# justice_league_members = [
+#     {"superhero": "Aquaman", "real_name": "Arthur Curry"},
+#     {"superhero": "Batman", "real_name": "Bruce Wayne"},
+#     {"superhero": "Cyborg", "real_name": "Victor Stone"},
+#     {"superhero": "Flash", "real_name": "Barry Allen"},
+#     {"superhero": "Green Lantern", "real_name": "Hal Jordan"},
+#     {"superhero": "Superman", "real_name": "Clark Kent/Kal-El"},
+#     {"superhero": "Wonder Woman", "real_name": "Princess Diana"}
+# ]
 app = Flask(__name__)
 
 # @TODO: setup mongo connection
