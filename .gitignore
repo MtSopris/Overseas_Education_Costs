@@ -24,3 +24,6 @@ hs_err_pid*
 
 # DS files mac
 *.DS_Store
+
+#VS code files
+*.vscode/
