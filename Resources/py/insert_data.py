@@ -5,125 +5,7 @@ import pymongo
 conn='mongodb://localhost:27017'
 client=pymongo.MongoClient(conn)
 
-# test print an existing db
-# use the client to retrieve the team db database from mongo, and name as variable db
-# db=client.team_db
-# # within the team_db, retrieve the team collection
-
-# # # db.team.find()
-# # # above will only return a cursor object, I need a list
-# # print(list(db.team.find()))
-
-# the things to insert: 
-# list of dictionaries
-
-
-#create new db named store_inventory with a collection called produce
-# insert_many looks for a list of dictionaries
-# client.store_inventory.produce_2.insert_many(item_list)
-
-# country_dict={'Burundi': {'cord': {'latitude': -3.3730559999999996,
-#    'longitude': 29.918885999999997},
-#   'abv': 'BI',
-#   'inbound': {'in14/15': '165',
-#    'in15/16': '148',
-#    'in16/17': '180',
-#    'in17/18': '134',
-#    'in18/19': '141',
-#    'in19/20': 164.0},
-#   'outbound': {'out14/15': '2',
-#    'out15/16': '0',
-#    'out16/17': '11',
-#    'out17/18': '0',
-#    'out18/19': '0'},
-#   'public_avg_tuit': {'pub_bachelor': None, 'pub_masters': None, 'pub_phd': None,
-#   'private_avg_tuit': {'pvt_bachelor': None,
-#    'pvt_masters': None,
-#    'pvt_phd': None},
-#   'yearly_c_o_l': None}}
-    
-# country_dict={'Burundi': {'cord': {'latitude': -3.3730559999999996,
-#    'longitude': 29.918885999999997},
-#   'abv': 'BI',
-#   'inbound': {'in14/15': '165',
-#    'in15/16': '148',
-#    'in16/17': '180',
-#    'in17/18': '134',
-#    'in18/19': '141',
-#    'in19/20': 164.0},
-#   'outbound': {'out14/15': '2',
-#    'out15/16': '0',
-#    'out16/17': '11',
-#    'out17/18': '0',
-#    'out18/19': '0'},
-#   'public_avg_tuit': {'pub_bachelor': None,
-#    'pub_masters': None,
-#    'pub_phd': None},
-#   'private_avg_tuit': {'pvt_bachelor': None,
-#    'pvt_masters': None,
-#    'pvt_phd': None},
-#   'yearly_c_o_l': None},
-#  'Djibouti': {'cord': {'latitude': 11.825138, 'longitude': 42.590275},
-#   'abv': 'DJ',
-#   'inbound': {'in14/15': '7',
-#    'in15/16': '9',
-#    'in16/17': '10',
-#    'in17/18': '9',
-#    'in18/19': '9',
-#    'in19/20': 6.0},
-#   'outbound': {'out14/15': '0',
-#    'out15/16': '0',
-#    'out16/17': '0',
-#    'out17/18': '0',
-#    'out18/19': '0'},
-#   'public_avg_tuit': {'pub_bachelor': None,
-#    'pub_masters': None,
-#    'pub_phd': None},
-#   'private_avg_tuit': {'pvt_bachelor': None,
-#    'pvt_masters': None,
-#    'pvt_phd': None},
-#   'yearly_c_o_l': None},
-#  'Eritrea': {'cord': {'latitude': 15.179383999999999,
-#    'longitude': 39.782334000000006},
-#   'abv': 'ER',
-#   'inbound': {'in14/15': '108',
-#    'in15/16': '109',
-#    'in16/17': '138',
-#    'in17/18': '151',
-#    'in18/19': '117',
-#    'in19/20': 81.0},
-#   'outbound': {'out14/15': '0',
-#    'out15/16': '1',
-#    'out16/17': '1',
-#    'out17/18': '0',
-#    'out18/19': '5'},
-#   'public_avg_tuit': {'pub_bachelor': None,
-#    'pub_masters': None,
-#    'pub_phd': None},
-#   'private_avg_tuit': {'pvt_bachelor': None,
-#    'pvt_masters': None,
-#    'pvt_phd': None},
-#   'yearly_c_o_l': None},
-#  'Ethiopia': {'cord': {'latitude': 9.145, 'longitude': 40.489672999999996},
-#   'abv': 'ET',
-#   'inbound': {'in14/15': '1472',
-#    'in15/16': '1517',
-#    'in16/17': '1847',
-#    'in17/18': '2118',
-#    'in18/19': '2061',
-#    'in19/20': 2356.0},
-#   'outbound': {'out14/15': '261',
-#    'out15/16': '302',
-#    'out16/17': '73',
-#    'out17/18': '207',
-#    'out18/19': '249'},
-#   'public_avg_tuit': {'pub_bachelor': None,
-#    'pub_masters': None,
-#    'pub_phd': None},
-#   'private_avg_tuit': {'pvt_bachelor': None,
-#    'pvt_masters': None,
-#    'pvt_phd': None},
-#   'yearly_c_o_l': None}}
+# hard code a dictionary of dictionaries (copied and pasted from jupyter notebook)
 country_dict={'Burundi': {'cord': {'latitude': -3.3730559999999996,
    'longitude': 29.918885999999997},
   'abv': 'BI',
@@ -4217,9 +4099,7 @@ country_dict={'Burundi': {'cord': {'latitude': -3.3730559999999996,
    'pvt_phd': None},
   'yearly_c_o_l': '65,856'}}
 
-client.overseas_db.country_test.insert_one(country_dict)
-
-country_list={'country_list':['Burundi',
+country_names={'country_names':['Burundi',
  'Djibouti',
  'Eritrea',
  'Ethiopia',
@@ -4422,4 +4302,10 @@ country_list={'country_list':['Burundi',
  'Wallis and Futuna',
  'United States']}
 
-client.overseas_db.country_list.insert_one(country_list)
+# connect to overseas db, collection named "country test" and insert one document, with the data in country_dict
+# will create a collection if it does not exist
+client.overseas_db.country_test.insert_one(country_dict)
+
+# connect to overseas db, collection named "country test" and insert one document, with the data in country_names
+# will create a collection if it does not exist
+client.overseas_db.country_names.insert_one(country_names)
