@@ -15,9 +15,36 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: API_KEY
 }).addTo(myMap);
 
-// var baseURL = '/data' 
+//read in data with var
+var university_url='http://127.0.0.1:5000/data'
 
-// d3.json(baseURL).then((data)=>{
-	
-// })
-// 	
+d3.json(university_url).then((response)=>{
+    Object.entries(response).forEach((country)=>{
+      // console.log(value)
+      var lat = country[1]['cord']['latitude']
+      var long = country[1]['cord']['longitude']
+
+      L.marker([lat,long])
+      .bindPopup("<h1>" + country[0]+ "</h1> <hr> <h3> Inbound: " + country[1]['inbound']['in18/19'] + "</h3>")
+      .addTo(myMap);
+    })
+})
+
+
+
+//   // Add our marker cluster layer to the map
+//   myMap.addLayer(markers);
+
+// });  
+
+// for (var i= 0: i<university_url.length; i++) {
+//   var country = country[i];
+//   L.marker(country.cord)
+//     .bindPopup("<h1>"+country.value[0]+"</h1> <hr> <h3>"+value[0]['in18/19']+"</h3>")
+//     .addTo(myMap);
+// }
+
+
+
+
+
