@@ -21,6 +21,7 @@ def index():
 
     # render the country data using the index.html template
     return render_template("index.html", country_dict=country_data)
+    # js is in the index.html. js will read resource data 
 
 
 # when interaction takes place, JS is directed to this endpoint, and the data function takes place
