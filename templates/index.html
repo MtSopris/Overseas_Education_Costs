@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="resource/styles.css">
+<!-- <link rel="stylesheet" href="/resource/styles.css"> -->
 <head> </head>
 
 <body class='background-color-main'>
-    <h1>{{nhl_dict.header}}</h1>
+    <h1>Header</h1>
     <ul>
         <li><a href="">Home</a></li>
         <li><a href="">Page 1</a></li>
@@ -18,6 +18,13 @@
     <div class='container-1'> 
         <p> Hear Map c</p> 
     </div>
+    <select id="selDataset" onchange="optionChanged(this.value)"></select> 
+    <!-- <script>javascript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- / is from root going down. This is relative path from app.py -->
+    <!-- static folder is important.  -->
+    <script src="/static/js/barchart.js"></script>
 
 </body>
 

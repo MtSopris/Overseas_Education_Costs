@@ -1,0 +1,6668 @@
+{
+    "Afghanistan": {
+    "abv": "AF",
+    "cord": {
+    "latitude": 33.93911,
+    "longitude": 67.709953
+    },
+    "inbound": {
+    "in14/15": "471",
+    "in15/16": "498",
+    "in16/17": "506",
+    "in17/18": "476",
+    "in18/19": "418",
+    "in19/20": 422
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "2",
+    "out16/17": "3",
+    "out17/18": "1",
+    "out18/19": "2"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Albania": {
+    "abv": "AL",
+    "cord": {
+    "latitude": 41.153332,
+    "longitude": 20.168331
+    },
+    "inbound": {
+    "in14/15": "670",
+    "in15/16": "705",
+    "in16/17": "781",
+    "in17/18": "884",
+    "in18/19": "993",
+    "in19/20": 1095
+    },
+    "outbound": {
+    "out14/15": "22",
+    "out15/16": "29",
+    "out16/17": "34",
+    "out17/18": "28",
+    "out18/19": "25"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Algeria": {
+    "abv": "DZ",
+    "cord": {
+    "latitude": 28.033886,
+    "longitude": 1.6596259999999998
+    },
+    "inbound": {
+    "in14/15": "175",
+    "in15/16": "158",
+    "in16/17": "192",
+    "in17/18": "212",
+    "in18/19": "238",
+    "in19/20": 239
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "1",
+    "out17/18": "1",
+    "out18/19": "5"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Andorra": {
+    "abv": "AD",
+    "cord": {
+    "latitude": 42.546245,
+    "longitude": 1.6015540000000001
+    },
+    "inbound": {
+    "in14/15": "9",
+    "in15/16": "11",
+    "in16/17": "16",
+    "in17/18": "14",
+    "in18/19": "17",
+    "in19/20": 11
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Angola": {
+    "abv": "AO",
+    "cord": {
+    "latitude": -11.202691999999999,
+    "longitude": 17.873887
+    },
+    "inbound": {
+    "in14/15": "1184",
+    "in15/16": "1296",
+    "in16/17": "1257",
+    "in17/18": "1183",
+    "in18/19": "1014",
+    "in19/20": 814
+    },
+    "outbound": {
+    "out14/15": "1",
+    "out15/16": "0",
+    "out16/17": "2",
+    "out17/18": "0",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Anguilla": {
+    "abv": "AI",
+    "cord": {
+    "latitude": 18.220554,
+    "longitude": -63.068615
+    },
+    "inbound": {
+    "in14/15": "15",
+    "in15/16": "18",
+    "in16/17": "14",
+    "in17/18": "15",
+    "in18/19": "19",
+    "in19/20": 19
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "1",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Antigua and Barbuda": {
+    "abv": "AG",
+    "cord": {
+    "latitude": 17.060816,
+    "longitude": -61.796428000000006
+    },
+    "inbound": {
+    "in14/15": "120",
+    "in15/16": "228",
+    "in16/17": "225",
+    "in17/18": "200",
+    "in18/19": "164",
+    "in19/20": 193
+    },
+    "outbound": {
+    "out14/15": "22",
+    "out15/16": "18",
+    "out16/17": "23",
+    "out17/18": "2",
+    "out18/19": "10"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Argentina": {
+    "abv": "AR",
+    "cord": {
+    "latitude": -38.416097,
+    "longitude": -63.616671999999994
+    },
+    "inbound": {
+    "in14/15": "2053",
+    "in15/16": "2201",
+    "in16/17": "2219",
+    "in17/18": "2283",
+    "in18/19": "2407",
+    "in19/20": 2428
+    },
+    "outbound": {
+    "out14/15": "3708",
+    "out15/16": "3846",
+    "out16/17": "3422",
+    "out17/18": "3805",
+    "out18/19": "3317"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Armenia": {
+    "abv": "AM",
+    "cord": {
+    "latitude": 40.069099,
+    "longitude": 45.038189
+    },
+    "inbound": {
+    "in14/15": "304",
+    "in15/16": "270",
+    "in16/17": "280",
+    "in17/18": "313",
+    "in18/19": "328",
+    "in19/20": 339
+    },
+    "outbound": {
+    "out14/15": "42",
+    "out15/16": "43",
+    "out16/17": "40",
+    "out17/18": "24",
+    "out18/19": "51"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Aruba": {
+    "abv": "AW",
+    "cord": {
+    "latitude": 12.52111,
+    "longitude": -69.968338
+    },
+    "inbound": {
+    "in14/15": "68",
+    "in15/16": "89",
+    "in16/17": "73",
+    "in17/18": "90",
+    "in18/19": "71",
+    "in19/20": 73
+    },
+    "outbound": {
+    "out14/15": "14",
+    "out15/16": "3",
+    "out16/17": "6",
+    "out17/18": "3",
+    "out18/19": "21"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Australia": {
+    "abv": "AU",
+    "cord": {
+    "latitude": -25.274398,
+    "longitude": 133.775136
+    },
+    "inbound": {
+    "in14/15": "4511",
+    "in15/16": "4752",
+    "in16/17": "4933",
+    "in17/18": "4908",
+    "in18/19": "4930",
+    "in19/20": 4982
+    },
+    "outbound": {
+    "out14/15": "8810",
+    "out15/16": "9536",
+    "out16/17": "10400",
+    "out17/18": "10332",
+    "out18/19": "10665"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 10809.59086,
+    "pvt_masters": 11449.277170000001,
+    "pvt_phd": 20092.65759
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 19028.59065,
+    "pub_masters": 18317.59733,
+    "pub_phd": 16186.69425
+    },
+    "yearly_c_o_l": "55,104"
+    },
+    "Austria": {
+    "abv": "AT",
+    "cord": {
+    "latitude": 47.516231,
+    "longitude": 14.550072
+    },
+    "inbound": {
+    "in14/15": "1114",
+    "in15/16": "1141",
+    "in16/17": "1111",
+    "in17/18": "1148",
+    "in18/19": "1098",
+    "in19/20": 1105
+    },
+    "outbound": {
+    "out14/15": "3211",
+    "out15/16": "3216",
+    "out16/17": "3308",
+    "out17/18": "3161",
+    "out18/19": "3039"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 1840.7224039999999,
+    "pub_masters": 1840.7224039999999,
+    "pub_phd": 1840.7224039999999
+    },
+    "yearly_c_o_l": "51,456"
+    },
+    "Azerbaijan": {
+    "abv": "AZ",
+    "cord": {
+    "latitude": 40.143105,
+    "longitude": 47.576927000000005
+    },
+    "inbound": {
+    "in14/15": "408",
+    "in15/16": "391",
+    "in16/17": "386",
+    "in17/18": "426",
+    "in18/19": "489",
+    "in19/20": 571
+    },
+    "outbound": {
+    "out14/15": "22",
+    "out15/16": "23",
+    "out16/17": "24",
+    "out17/18": "16",
+    "out18/19": "21"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bahamas": {
+    "abv": "BS",
+    "cord": {
+    "latitude": 25.03428,
+    "longitude": -77.39628
+    },
+    "inbound": {
+    "in14/15": "1835",
+    "in15/16": "2027",
+    "in16/17": "2252",
+    "in17/18": "2176",
+    "in18/19": "2148",
+    "in19/20": 2500
+    },
+    "outbound": {
+    "out14/15": "900",
+    "out15/16": "1137",
+    "out16/17": "955",
+    "out17/18": "746",
+    "out18/19": "965"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bahrain": {
+    "abv": "BH",
+    "cord": {
+    "latitude": 25.930414000000003,
+    "longitude": 50.637772
+    },
+    "inbound": {
+    "in14/15": "474",
+    "in15/16": "469",
+    "in16/17": "475",
+    "in17/18": "451",
+    "in18/19": "422",
+    "in19/20": 406
+    },
+    "outbound": {
+    "out14/15": "16",
+    "out15/16": "23",
+    "out16/17": "27",
+    "out17/18": "50",
+    "out18/19": "26"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bangladesh": {
+    "abv": "BD",
+    "cord": {
+    "latitude": 23.684994,
+    "longitude": 90.35633100000001
+    },
+    "inbound": {
+    "in14/15": "5455",
+    "in15/16": "6513",
+    "in16/17": "7143",
+    "in17/18": "7496",
+    "in18/19": "8249",
+    "in19/20": 8838
+    },
+    "outbound": {
+    "out14/15": "81",
+    "out15/16": "27",
+    "out16/17": "25",
+    "out17/18": "43",
+    "out18/19": "45"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Barbados": {
+    "abv": "BB",
+    "cord": {
+    "latitude": 13.193887,
+    "longitude": -59.543198
+    },
+    "inbound": {
+    "in14/15": "278",
+    "in15/16": "319",
+    "in16/17": "319",
+    "in17/18": "322",
+    "in18/19": "333",
+    "in19/20": 298
+    },
+    "outbound": {
+    "out14/15": "169",
+    "out15/16": "177",
+    "out16/17": "157",
+    "out17/18": "258",
+    "out18/19": "227"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Belarus": {
+    "abv": "BY",
+    "cord": {
+    "latitude": 53.709807,
+    "longitude": 27.953389
+    },
+    "inbound": {
+    "in14/15": "330",
+    "in15/16": "323",
+    "in16/17": "319",
+    "in17/18": "351",
+    "in18/19": "378",
+    "in19/20": 388
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "7",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "11"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Belgium": {
+    "abv": "BE",
+    "cord": {
+    "latitude": 50.503887,
+    "longitude": 4.469936
+    },
+    "inbound": {
+    "in14/15": "1001",
+    "in15/16": "1094",
+    "in16/17": "1087",
+    "in17/18": "1080",
+    "in18/19": "1073",
+    "in19/20": 1055
+    },
+    "outbound": {
+    "out14/15": "1477",
+    "out15/16": "1285",
+    "out16/17": "1158",
+    "out17/18": "1256",
+    "out18/19": "1210"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Belize": {
+    "abv": "BZ",
+    "cord": {
+    "latitude": 17.189877,
+    "longitude": -88.49765
+    },
+    "inbound": {
+    "in14/15": "312",
+    "in15/16": "308",
+    "in16/17": "356",
+    "in17/18": "366",
+    "in18/19": "375",
+    "in19/20": 388
+    },
+    "outbound": {
+    "out14/15": "2590",
+    "out15/16": "2703",
+    "out16/17": "2715",
+    "out17/18": "2584",
+    "out18/19": "2589"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Benin": {
+    "abv": "BJ",
+    "cord": {
+    "latitude": 9.30769,
+    "longitude": 2.315834
+    },
+    "inbound": {
+    "in14/15": "287",
+    "in15/16": "259",
+    "in16/17": "248",
+    "in17/18": "234",
+    "in18/19": "246",
+    "in19/20": 234
+    },
+    "outbound": {
+    "out14/15": "15",
+    "out15/16": "42",
+    "out16/17": "22",
+    "out17/18": "64",
+    "out18/19": "55"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bermuda": {
+    "abv": "BM",
+    "cord": {
+    "latitude": 32.321384,
+    "longitude": -64.75737
+    },
+    "inbound": {
+    "in14/15": "387",
+    "in15/16": "319",
+    "in16/17": "315",
+    "in17/18": "296",
+    "in18/19": "280",
+    "in19/20": 251
+    },
+    "outbound": {
+    "out14/15": "119",
+    "out15/16": "131",
+    "out16/17": "125",
+    "out17/18": "138",
+    "out18/19": "190"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bhutan": {
+    "abv": "BT",
+    "cord": {
+    "latitude": 27.514162,
+    "longitude": 90.433601
+    },
+    "inbound": {
+    "in14/15": "128",
+    "in15/16": "143",
+    "in16/17": "148",
+    "in17/18": "152",
+    "in18/19": "146",
+    "in19/20": 154
+    },
+    "outbound": {
+    "out14/15": "41",
+    "out15/16": "114",
+    "out16/17": "74",
+    "out17/18": "104",
+    "out18/19": "122"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bolivia": {
+    "abv": "BO",
+    "cord": {
+    "latitude": -16.290154,
+    "longitude": -63.588653
+    },
+    "inbound": {
+    "in14/15": "1116",
+    "in15/16": "1142",
+    "in16/17": "1207",
+    "in17/18": "1153",
+    "in18/19": "1195",
+    "in19/20": 1199
+    },
+    "outbound": {
+    "out14/15": "320",
+    "out15/16": "286",
+    "out16/17": "362",
+    "out17/18": "293",
+    "out18/19": "371"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bosnia and Herzegovina": {
+    "abv": "BA",
+    "cord": {
+    "latitude": 43.915886,
+    "longitude": 17.679076000000002
+    },
+    "inbound": {
+    "in14/15": "296",
+    "in15/16": "309",
+    "in16/17": "303",
+    "in17/18": "290",
+    "in18/19": "300",
+    "in19/20": 287
+    },
+    "outbound": {
+    "out14/15": "58",
+    "out15/16": "72",
+    "out16/17": "49",
+    "out17/18": "130",
+    "out18/19": "58"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Botswana": {
+    "abv": "BW",
+    "cord": {
+    "latitude": -22.328474,
+    "longitude": 24.684866
+    },
+    "inbound": {
+    "in14/15": "257",
+    "in15/16": "246",
+    "in16/17": "296",
+    "in17/18": "233",
+    "in18/19": "214",
+    "in19/20": 246
+    },
+    "outbound": {
+    "out14/15": "279",
+    "out15/16": "266",
+    "out16/17": "275",
+    "out17/18": "252",
+    "out18/19": "300"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Brazil": {
+    "abv": "BR",
+    "cord": {
+    "latitude": -14.235004,
+    "longitude": -51.92528
+    },
+    "inbound": {
+    "in14/15": "23675",
+    "in15/16": "19370",
+    "in16/17": "13089",
+    "in17/18": "14620",
+    "in18/19": "16059",
+    "in19/20": 16671
+    },
+    "outbound": {
+    "out14/15": "3836",
+    "out15/16": "3400",
+    "out16/17": "2078",
+    "out17/18": "2699",
+    "out18/19": "2269"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "British Virgin Islands": {
+    "abv": "VG",
+    "cord": {
+    "latitude": 18.420695000000002,
+    "longitude": -64.63996800000001
+    },
+    "inbound": {
+    "in14/15": "99",
+    "in15/16": "95",
+    "in16/17": "76",
+    "in17/18": "70",
+    "in18/19": "81",
+    "in19/20": 81
+    },
+    "outbound": {
+    "out14/15": "140",
+    "out15/16": "159",
+    "out16/17": "141",
+    "out17/18": "37",
+    "out18/19": "46"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Brunei": {
+    "abv": "BN",
+    "cord": {
+    "latitude": 4.535277,
+    "longitude": 114.72766899999999
+    },
+    "inbound": {
+    "in14/15": "73",
+    "in15/16": "59",
+    "in16/17": "53",
+    "in17/18": "53",
+    "in18/19": "50",
+    "in19/20": 54
+    },
+    "outbound": {
+    "out14/15": "25",
+    "out15/16": "11",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Bulgaria": {
+    "abv": "BG",
+    "cord": {
+    "latitude": 42.733883,
+    "longitude": 25.48583
+    },
+    "inbound": {
+    "in14/15": "1171",
+    "in15/16": "1016",
+    "in16/17": "929",
+    "in17/18": "826",
+    "in18/19": "757",
+    "in19/20": 690
+    },
+    "outbound": {
+    "out14/15": "42",
+    "out15/16": "85",
+    "out16/17": "66",
+    "out17/18": "119",
+    "out18/19": "155"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Burkina Faso": {
+    "abv": "BF",
+    "cord": {
+    "latitude": 12.238333,
+    "longitude": -1.561593
+    },
+    "inbound": {
+    "in14/15": "567",
+    "in15/16": "540",
+    "in16/17": "533",
+    "in17/18": "567",
+    "in18/19": "514",
+    "in19/20": 483
+    },
+    "outbound": {
+    "out14/15": "8",
+    "out15/16": "5",
+    "out16/17": "7",
+    "out17/18": "6",
+    "out18/19": "5"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Burundi": {
+    "abv": "BI",
+    "cord": {
+    "latitude": -3.3730559999999996,
+    "longitude": 29.918885999999997
+    },
+    "inbound": {
+    "in14/15": "165",
+    "in15/16": "148",
+    "in16/17": "180",
+    "in17/18": "134",
+    "in18/19": "141",
+    "in19/20": 164
+    },
+    "outbound": {
+    "out14/15": "2",
+    "out15/16": "0",
+    "out16/17": "11",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Cambodia": {
+    "abv": "KH",
+    "cord": {
+    "latitude": 12.565679,
+    "longitude": 104.990963
+    },
+    "inbound": {
+    "in14/15": "492",
+    "in15/16": "499",
+    "in16/17": "512",
+    "in17/18": "659",
+    "in18/19": "685",
+    "in19/20": 742
+    },
+    "outbound": {
+    "out14/15": "482",
+    "out15/16": "594",
+    "out16/17": "466",
+    "out17/18": "415",
+    "out18/19": "411"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Cameroon": {
+    "abv": "CM",
+    "cord": {
+    "latitude": 7.369722,
+    "longitude": 12.354722
+    },
+    "inbound": {
+    "in14/15": "1212",
+    "in15/16": "1210",
+    "in16/17": "1334",
+    "in17/18": "1382",
+    "in18/19": "1188",
+    "in19/20": 1027
+    },
+    "outbound": {
+    "out14/15": "92",
+    "out15/16": "53",
+    "out16/17": "99",
+    "out17/18": "57",
+    "out18/19": "34"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Canada": {
+    "abv": "CA",
+    "cord": {
+    "latitude": 56.130366,
+    "longitude": -106.34677099999999
+    },
+    "inbound": {
+    "in14/15": "27240",
+    "in15/16": "26973",
+    "in16/17": "27065",
+    "in17/18": "25909",
+    "in18/19": "26122",
+    "in19/20": 25992
+    },
+    "outbound": {
+    "out14/15": "1569",
+    "out15/16": "1716",
+    "out16/17": "1639",
+    "out17/18": "1786",
+    "out18/19": "2107"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 20406.45173,
+    "pub_masters": 13039.873609999999,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "46,368"
+    },
+    "Cayman Islands": {
+    "abv": "KY",
+    "cord": {
+    "latitude": 19.513469,
+    "longitude": -80.566956
+    },
+    "inbound": {
+    "in14/15": "174",
+    "in15/16": "165",
+    "in16/17": "165",
+    "in17/18": "169",
+    "in18/19": "159",
+    "in19/20": 136
+    },
+    "outbound": {
+    "out14/15": "90",
+    "out15/16": "91",
+    "out16/17": "55",
+    "out17/18": "148",
+    "out18/19": "144"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Central African Republic": {
+    "abv": "CF",
+    "cord": {
+    "latitude": 6.611111,
+    "longitude": 20.939444
+    },
+    "inbound": {
+    "in14/15": "13",
+    "in15/16": "13",
+    "in16/17": "15",
+    "in17/18": "14",
+    "in18/19": "17",
+    "in19/20": 12
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Chad": {
+    "abv": "TD",
+    "cord": {
+    "latitude": 15.454166,
+    "longitude": 18.732207
+    },
+    "inbound": {
+    "in14/15": "61",
+    "in15/16": "52",
+    "in16/17": "66",
+    "in17/18": "75",
+    "in18/19": "65",
+    "in19/20": 51
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "1",
+    "out16/17": "0",
+    "out17/18": "2",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Chile": {
+    "abv": "CL",
+    "cord": {
+    "latitude": -35.675146999999996,
+    "longitude": -71.542969
+    },
+    "inbound": {
+    "in14/15": "2513",
+    "in15/16": "2630",
+    "in16/17": "2523",
+    "in17/18": "2528",
+    "in18/19": "2699",
+    "in19/20": 2483
+    },
+    "outbound": {
+    "out14/15": "3136",
+    "out15/16": "2942",
+    "out16/17": "3073",
+    "out17/18": "3020",
+    "out18/19": "3190"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 6722.825043000001,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 7524.001131999999,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "15,012"
+    },
+    "China": {
+    "abv": "CN",
+    "cord": {
+    "latitude": 35.86166,
+    "longitude": 104.195397
+    },
+    "inbound": {
+    "in14/15": "304040",
+    "in15/16": "328547",
+    "in16/17": "350755",
+    "in17/18": "363341",
+    "in18/19": "369548",
+    "in19/20": 372532
+    },
+    "outbound": {
+    "out14/15": "12790",
+    "out15/16": "11688",
+    "out16/17": "11910",
+    "out17/18": "11613",
+    "out18/19": "11639"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Colombia": {
+    "abv": "CO",
+    "cord": {
+    "latitude": 4.570868,
+    "longitude": -74.297333
+    },
+    "inbound": {
+    "in14/15": "7169",
+    "in15/16": "7815",
+    "in16/17": "7982",
+    "in17/18": "7976",
+    "in18/19": "8060",
+    "in19/20": 7787
+    },
+    "outbound": {
+    "out14/15": "664",
+    "out15/16": "828",
+    "out16/17": "911",
+    "out17/18": "905",
+    "out18/19": "1030"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Comoros": {
+    "abv": "KM",
+    "cord": {
+    "latitude": -11.875001,
+    "longitude": 43.872219
+    },
+    "inbound": {
+    "in14/15": "32",
+    "in15/16": "32",
+    "in16/17": "10",
+    "in17/18": "12",
+    "in18/19": "18",
+    "in19/20": 40
+    },
+    "outbound": {
+    "out14/15": "1",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Cook Islands": {
+    "abv": "CK",
+    "cord": {
+    "latitude": -21.236735999999997,
+    "longitude": -159.777671
+    },
+    "inbound": {
+    "in14/15": "2",
+    "in15/16": "5",
+    "in16/17": "0",
+    "in17/18": "5",
+    "in18/19": "17",
+    "in19/20": 0
+    },
+    "outbound": {
+    "out14/15": "1",
+    "out15/16": "5",
+    "out16/17": "1",
+    "out17/18": "1",
+    "out18/19": "2"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Costa Rica": {
+    "abv": "CR",
+    "cord": {
+    "latitude": 9.748917,
+    "longitude": -83.753428
+    },
+    "inbound": {
+    "in14/15": "1118",
+    "in15/16": "1148",
+    "in16/17": "1148",
+    "in17/18": "1146",
+    "in18/19": "1157",
+    "in19/20": 1240
+    },
+    "outbound": {
+    "out14/15": "9305",
+    "out15/16": "9233",
+    "out16/17": "8322",
+    "out17/18": "8681",
+    "out18/19": "8333"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Croatia": {
+    "abv": "HR",
+    "cord": {
+    "latitude": 45.1,
+    "longitude": 15.2
+    },
+    "inbound": {
+    "in14/15": "523",
+    "in15/16": "527",
+    "in16/17": "537",
+    "in17/18": "528",
+    "in18/19": "516",
+    "in19/20": 472
+    },
+    "outbound": {
+    "out14/15": "350",
+    "out15/16": "406",
+    "out16/17": "505",
+    "out17/18": "733",
+    "out18/19": "727"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Cuba": {
+    "abv": "CU",
+    "cord": {
+    "latitude": 21.521757,
+    "longitude": -77.78116700000001
+    },
+    "inbound": {
+    "in14/15": "94",
+    "in15/16": "153",
+    "in16/17": "119",
+    "in17/18": "152",
+    "in18/19": "163",
+    "in19/20": 130
+    },
+    "outbound": {
+    "out14/15": "2384",
+    "out15/16": "3781",
+    "out16/17": "4607",
+    "out17/18": "2464",
+    "out18/19": "2414"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Cyprus": {
+    "abv": "CY",
+    "cord": {
+    "latitude": 35.126413,
+    "longitude": 33.429859
+    },
+    "inbound": {
+    "in14/15": "417",
+    "in15/16": "401",
+    "in16/17": "388",
+    "in17/18": "410",
+    "in18/19": "431",
+    "in19/20": 432
+    },
+    "outbound": {
+    "out14/15": "278",
+    "out15/16": "125",
+    "out16/17": "208",
+    "out17/18": "319",
+    "out18/19": "339"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Denmark": {
+    "abv": "DK",
+    "cord": {
+    "latitude": 56.26392,
+    "longitude": 9.501785
+    },
+    "inbound": {
+    "in14/15": "1602",
+    "in15/16": "1486",
+    "in16/17": "1490",
+    "in17/18": "1423",
+    "in18/19": "1423",
+    "in19/20": 1264
+    },
+    "outbound": {
+    "out14/15": "4034",
+    "out15/16": "4632",
+    "out16/17": "4457",
+    "out17/18": "4637",
+    "out18/19": "4846"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "63,948"
+    },
+    "Djibouti": {
+    "abv": "DJ",
+    "cord": {
+    "latitude": 11.825138,
+    "longitude": 42.590275
+    },
+    "inbound": {
+    "in14/15": "7",
+    "in15/16": "9",
+    "in16/17": "10",
+    "in17/18": "9",
+    "in18/19": "9",
+    "in19/20": 6
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Dominica": {
+    "abv": "DM",
+    "cord": {
+    "latitude": 15.414999,
+    "longitude": -61.370976
+    },
+    "inbound": {
+    "in14/15": "166",
+    "in15/16": "238",
+    "in16/17": "271",
+    "in17/18": "371",
+    "in18/19": "227",
+    "in19/20": 576
+    },
+    "outbound": {
+    "out14/15": "147",
+    "out15/16": "139",
+    "out16/17": "102",
+    "out17/18": "68",
+    "out18/19": "102"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Dominican Republic": {
+    "abv": "DO",
+    "cord": {
+    "latitude": 18.735692999999998,
+    "longitude": -70.162651
+    },
+    "inbound": {
+    "in14/15": "1535",
+    "in15/16": "1513",
+    "in16/17": "1428",
+    "in17/18": "1467",
+    "in18/19": "1559",
+    "in19/20": 1379
+    },
+    "outbound": {
+    "out14/15": "2146",
+    "out15/16": "2001",
+    "out16/17": "2197",
+    "out17/18": "1992",
+    "out18/19": "1889"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Ecuador": {
+    "abv": "EC",
+    "cord": {
+    "latitude": -1.8312389999999998,
+    "longitude": -78.183406
+    },
+    "inbound": {
+    "in14/15": "2797",
+    "in15/16": "2889",
+    "in16/17": "3032",
+    "in17/18": "3050",
+    "in18/19": "2892",
+    "in19/20": 2852
+    },
+    "outbound": {
+    "out14/15": "3746",
+    "out15/16": "3751",
+    "out16/17": "4021",
+    "out17/18": "4055",
+    "out18/19": "3675"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Egypt": {
+    "abv": "EG",
+    "cord": {
+    "latitude": 26.820553000000004,
+    "longitude": 30.802497999999996
+    },
+    "inbound": {
+    "in14/15": "2974",
+    "in15/16": "3442",
+    "in16/17": "3715",
+    "in17/18": "3701",
+    "in18/19": "3675",
+    "in19/20": 3859
+    },
+    "outbound": {
+    "out14/15": "109",
+    "out15/16": "124",
+    "out16/17": "174",
+    "out17/18": "123",
+    "out18/19": "248"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "El Salvador": {
+    "abv": "SV",
+    "cord": {
+    "latitude": 13.794185,
+    "longitude": -88.89653
+    },
+    "inbound": {
+    "in14/15": "1460",
+    "in15/16": "1632",
+    "in16/17": "1570",
+    "in17/18": "1554",
+    "in18/19": "1566",
+    "in19/20": 1581
+    },
+    "outbound": {
+    "out14/15": "298",
+    "out15/16": "120",
+    "out16/17": "94",
+    "out17/18": "62",
+    "out18/19": "112"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Equatorial Guinea": {
+    "abv": "GQ",
+    "cord": {
+    "latitude": 1.6508009999999997,
+    "longitude": 10.267895
+    },
+    "inbound": {
+    "in14/15": "314",
+    "in15/16": "339",
+    "in16/17": "360",
+    "in17/18": "335",
+    "in18/19": "280",
+    "in19/20": 247
+    },
+    "outbound": {
+    "out14/15": "17",
+    "out15/16": "22",
+    "out16/17": "7",
+    "out17/18": "7",
+    "out18/19": "11"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Eritrea": {
+    "abv": "ER",
+    "cord": {
+    "latitude": 15.179383999999999,
+    "longitude": 39.782334000000006
+    },
+    "inbound": {
+    "in14/15": "108",
+    "in15/16": "109",
+    "in16/17": "138",
+    "in17/18": "151",
+    "in18/19": "117",
+    "in19/20": 81
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "1",
+    "out16/17": "1",
+    "out17/18": "0",
+    "out18/19": "5"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Estonia": {
+    "abv": "EE",
+    "cord": {
+    "latitude": 58.595271999999994,
+    "longitude": 25.013607
+    },
+    "inbound": {
+    "in14/15": "288",
+    "in15/16": "191",
+    "in16/17": "179",
+    "in17/18": "186",
+    "in18/19": "184",
+    "in19/20": 177
+    },
+    "outbound": {
+    "out14/15": "92",
+    "out15/16": "151",
+    "out16/17": "170",
+    "out17/18": "110",
+    "out18/19": "159"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 8564.519379000001,
+    "pvt_masters": 8747.378399,
+    "pvt_phd": 0
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 6763.917809999999,
+    "pub_masters": 7536.403872,
+    "pub_phd": 0
+    },
+    "yearly_c_o_l": "23,256"
+    },
+    "Ethiopia": {
+    "abv": "ET",
+    "cord": {
+    "latitude": 9.145,
+    "longitude": 40.489672999999996
+    },
+    "inbound": {
+    "in14/15": "1472",
+    "in15/16": "1517",
+    "in16/17": "1847",
+    "in17/18": "2118",
+    "in18/19": "2061",
+    "in19/20": 2356
+    },
+    "outbound": {
+    "out14/15": "261",
+    "out15/16": "302",
+    "out16/17": "73",
+    "out17/18": "207",
+    "out18/19": "249"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Fiji": {
+    "abv": "FJ",
+    "cord": {
+    "latitude": -16.578193,
+    "longitude": 179.414413
+    },
+    "inbound": {
+    "in14/15": "89",
+    "in15/16": "111",
+    "in16/17": "100",
+    "in17/18": "109",
+    "in18/19": "98",
+    "in19/20": 90
+    },
+    "outbound": {
+    "out14/15": "249",
+    "out15/16": "266",
+    "out16/17": "218",
+    "out17/18": "216",
+    "out18/19": "245"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Finland": {
+    "abv": "FI",
+    "cord": {
+    "latitude": 61.92411,
+    "longitude": 25.748151
+    },
+    "inbound": {
+    "in14/15": "669",
+    "in15/16": "714",
+    "in16/17": "737",
+    "in17/18": "768",
+    "in18/19": "716",
+    "in19/20": 690
+    },
+    "outbound": {
+    "out14/15": "330",
+    "out15/16": "396",
+    "out16/17": "458",
+    "out17/18": "509",
+    "out18/19": "490"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "France": {
+    "abv": "FR",
+    "cord": {
+    "latitude": 46.227638,
+    "longitude": 2.213749
+    },
+    "inbound": {
+    "in14/15": "8743",
+    "in15/16": "8764",
+    "in16/17": "8814",
+    "in17/18": "8802",
+    "in18/19": "8716",
+    "in19/20": 8471
+    },
+    "outbound": {
+    "out14/15": "18198",
+    "out15/16": "17214",
+    "out16/17": "16462",
+    "out17/18": "17185",
+    "out18/19": "18465"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 237.2436415,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "42,456"
+    },
+    "French Guiana": {
+    "abv": "GF",
+    "cord": {
+    "latitude": 3.9338889999999997,
+    "longitude": -53.125781999999994
+    },
+    "inbound": {
+    "in14/15": "11",
+    "in15/16": "7",
+    "in16/17": "1",
+    "in17/18": "3",
+    "in18/19": "7",
+    "in19/20": 7
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "4",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "37"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "French Polynesia": {
+    "abv": "PF",
+    "cord": {
+    "latitude": -17.679742,
+    "longitude": -149.40684299999998
+    },
+    "inbound": {
+    "in14/15": "23",
+    "in15/16": "31",
+    "in16/17": "30",
+    "in17/18": "30",
+    "in18/19": "60",
+    "in19/20": 49
+    },
+    "outbound": {
+    "out14/15": "64",
+    "out15/16": "107",
+    "out16/17": "81",
+    "out17/18": "95",
+    "out18/19": "73"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Gabon": {
+    "abv": "GA",
+    "cord": {
+    "latitude": -0.803689,
+    "longitude": 11.609444
+    },
+    "inbound": {
+    "in14/15": "388",
+    "in15/16": "410",
+    "in16/17": "363",
+    "in17/18": "332",
+    "in18/19": "327",
+    "in19/20": 280
+    },
+    "outbound": {
+    "out14/15": "20",
+    "out15/16": "14",
+    "out16/17": "5",
+    "out17/18": "4",
+    "out18/19": "2"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Gambia": {
+    "abv": "GM",
+    "cord": {
+    "latitude": 13.443182,
+    "longitude": -15.310139000000001
+    },
+    "inbound": {
+    "in14/15": "275",
+    "in15/16": "274",
+    "in16/17": "299",
+    "in17/18": "261",
+    "in18/19": "243",
+    "in19/20": 239
+    },
+    "outbound": {
+    "out14/15": "25",
+    "out15/16": "73",
+    "out16/17": "39",
+    "out17/18": "62",
+    "out18/19": "61"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Georgia": {
+    "abv": "GE",
+    "cord": {
+    "latitude": 42.315407,
+    "longitude": 43.356891999999995
+    },
+    "inbound": {
+    "in14/15": "541",
+    "in15/16": "543",
+    "in16/17": "558",
+    "in17/18": "597",
+    "in18/19": "574",
+    "in19/20": 640
+    },
+    "outbound": {
+    "out14/15": "94",
+    "out15/16": "58",
+    "out16/17": "56",
+    "out17/18": "90",
+    "out18/19": "85"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Germany": {
+    "abv": "DE",
+    "cord": {
+    "latitude": 51.165690999999995,
+    "longitude": 10.451526
+    },
+    "inbound": {
+    "in14/15": "10193",
+    "in15/16": "10145",
+    "in16/17": "10169",
+    "in17/18": "10042",
+    "in18/19": "9191",
+    "in19/20": 9242
+    },
+    "outbound": {
+    "out14/15": "11010",
+    "out15/16": "11900",
+    "out16/17": "12585",
+    "out17/18": "12250",
+    "out18/19": "12029"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "48,576"
+    },
+    "Ghana": {
+    "abv": "GH",
+    "cord": {
+    "latitude": 7.946527000000001,
+    "longitude": -1.0231940000000002
+    },
+    "inbound": {
+    "in14/15": "3099",
+    "in15/16": "3049",
+    "in16/17": "3111",
+    "in17/18": "3213",
+    "in18/19": "3661",
+    "in19/20": 4221
+    },
+    "outbound": {
+    "out14/15": "737",
+    "out15/16": "1564",
+    "out16/17": "1865",
+    "out17/18": "2210",
+    "out18/19": "2147"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Gibraltar": {
+    "abv": "GI",
+    "cord": {
+    "latitude": 36.137741,
+    "longitude": -5.345374
+    },
+    "inbound": {
+    "in14/15": "6",
+    "in15/16": "4",
+    "in16/17": "15",
+    "in17/18": "6",
+    "in18/19": "16",
+    "in19/20": 2
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "1",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Greece": {
+    "abv": "GR",
+    "cord": {
+    "latitude": 39.074208,
+    "longitude": 21.824312
+    },
+    "inbound": {
+    "in14/15": "2147",
+    "in15/16": "2199",
+    "in16/17": "2318",
+    "in17/18": "2395",
+    "in18/19": "2523",
+    "in19/20": 2489
+    },
+    "outbound": {
+    "out14/15": "3628",
+    "out15/16": "3592",
+    "out16/17": "4351",
+    "out17/18": "5223",
+    "out18/19": "5834"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 0,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "19,752"
+    },
+    "Grenada": {
+    "abv": "GD",
+    "cord": {
+    "latitude": 12.262775999999999,
+    "longitude": -61.604170999999994
+    },
+    "inbound": {
+    "in14/15": "145",
+    "in15/16": "186",
+    "in16/17": "194",
+    "in17/18": "170",
+    "in18/19": "133",
+    "in19/20": 161
+    },
+    "outbound": {
+    "out14/15": "32",
+    "out15/16": "37",
+    "out16/17": "128",
+    "out17/18": "88",
+    "out18/19": "66"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Guadeloupe": {
+    "abv": "GP",
+    "cord": {
+    "latitude": 16.995971,
+    "longitude": -62.067641
+    },
+    "inbound": {
+    "in14/15": "11",
+    "in15/16": "11",
+    "in16/17": "9",
+    "in17/18": "10",
+    "in18/19": "8",
+    "in19/20": 14
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "7",
+    "out16/17": "39",
+    "out17/18": "28",
+    "out18/19": "9"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Guatemala": {
+    "abv": "GT",
+    "cord": {
+    "latitude": 15.783470999999999,
+    "longitude": -90.23075899999999
+    },
+    "inbound": {
+    "in14/15": "1205",
+    "in15/16": "1245",
+    "in16/17": "1217",
+    "in17/18": "1206",
+    "in18/19": "1192",
+    "in19/20": 1195
+    },
+    "outbound": {
+    "out14/15": "2195",
+    "out15/16": "2292",
+    "out16/17": "2018",
+    "out17/18": "2314",
+    "out18/19": "1976"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Guinea": {
+    "abv": "GN",
+    "cord": {
+    "latitude": 9.945587,
+    "longitude": -9.696645
+    },
+    "inbound": {
+    "in14/15": "109",
+    "in15/16": "94",
+    "in16/17": "94",
+    "in17/18": "98",
+    "in18/19": "107",
+    "in19/20": 92
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "7",
+    "out16/17": "2",
+    "out17/18": "14",
+    "out18/19": "8"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Guinea-Bissau": {
+    "abv": "GW",
+    "cord": {
+    "latitude": 11.803749,
+    "longitude": -15.180413
+    },
+    "inbound": {
+    "in14/15": "9",
+    "in15/16": "18",
+    "in16/17": "9",
+    "in17/18": "10",
+    "in18/19": "16",
+    "in19/20": 13
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "1",
+    "out17/18": "6",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Guyana": {
+    "abv": "GY",
+    "cord": {
+    "latitude": 4.860416000000001,
+    "longitude": -58.93018000000001
+    },
+    "inbound": {
+    "in14/15": "230",
+    "in15/16": "246",
+    "in16/17": "250",
+    "in17/18": "296",
+    "in18/19": "311",
+    "in19/20": 301
+    },
+    "outbound": {
+    "out14/15": "72",
+    "out15/16": "37",
+    "out16/17": "49",
+    "out17/18": "97",
+    "out18/19": "94"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Haiti": {
+    "abv": "HT",
+    "cord": {
+    "latitude": 18.971187,
+    "longitude": -72.28521500000001
+    },
+    "inbound": {
+    "in14/15": "934",
+    "in15/16": "946",
+    "in16/17": "958",
+    "in17/18": "948",
+    "in18/19": "967",
+    "in19/20": 1016
+    },
+    "outbound": {
+    "out14/15": "532",
+    "out15/16": "689",
+    "out16/17": "754",
+    "out17/18": "611",
+    "out18/19": "254"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Honduras": {
+    "abv": "HN",
+    "cord": {
+    "latitude": 15.199998999999998,
+    "longitude": -86.241905
+    },
+    "inbound": {
+    "in14/15": "1760",
+    "in15/16": "1985",
+    "in16/17": "2046",
+    "in17/18": "2104",
+    "in18/19": "2191",
+    "in19/20": 2161
+    },
+    "outbound": {
+    "out14/15": "693",
+    "out15/16": "859",
+    "out16/17": "703",
+    "out17/18": "731",
+    "out18/19": "726"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Hong Kong": {
+    "abv": "HK",
+    "cord": {
+    "latitude": 22.396428,
+    "longitude": 114.10949699999999
+    },
+    "inbound": {
+    "in14/15": "8012",
+    "in15/16": "7923",
+    "in16/17": "7547",
+    "in17/18": "7162",
+    "in18/19": "6917",
+    "in19/20": 6778
+    },
+    "outbound": {
+    "out14/15": "1508",
+    "out15/16": "1612",
+    "out16/17": "1641",
+    "out17/18": "1859",
+    "out18/19": "2314"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Hungary": {
+    "abv": "HU",
+    "cord": {
+    "latitude": 47.162494,
+    "longitude": 19.503304
+    },
+    "inbound": {
+    "in14/15": "720",
+    "in15/16": "773",
+    "in16/17": "730",
+    "in17/18": "716",
+    "in18/19": "793",
+    "in19/20": 724
+    },
+    "outbound": {
+    "out14/15": "899",
+    "out15/16": "1086",
+    "out16/17": "1291",
+    "out17/18": "1161",
+    "out18/19": "1231"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Iceland": {
+    "abv": "IS",
+    "cord": {
+    "latitude": 64.96305100000001,
+    "longitude": -19.020835
+    },
+    "inbound": {
+    "in14/15": "396",
+    "in15/16": "382",
+    "in16/17": "402",
+    "in17/18": "412",
+    "in18/19": "407",
+    "in19/20": 411
+    },
+    "outbound": {
+    "out14/15": "513",
+    "out15/16": "688",
+    "out16/17": "1052",
+    "out17/18": "1129",
+    "out18/19": "1286"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "India": {
+    "abv": "IN",
+    "cord": {
+    "latitude": 20.593684,
+    "longitude": 78.96288
+    },
+    "inbound": {
+    "in14/15": "132888",
+    "in15/16": "165918",
+    "in16/17": "186267",
+    "in17/18": "196271",
+    "in18/19": "202014",
+    "in19/20": 193124
+    },
+    "outbound": {
+    "out14/15": "4438",
+    "out15/16": "4181",
+    "out16/17": "4704",
+    "out17/18": "3986",
+    "out18/19": "3366"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Indonesia": {
+    "abv": "ID",
+    "cord": {
+    "latitude": -0.789275,
+    "longitude": 113.921327
+    },
+    "inbound": {
+    "in14/15": "8188",
+    "in15/16": "8727",
+    "in16/17": "8776",
+    "in17/18": "8650",
+    "in18/19": "8356",
+    "in19/20": 8300
+    },
+    "outbound": {
+    "out14/15": "534",
+    "out15/16": "597",
+    "out16/17": "555",
+    "out17/18": "825",
+    "out18/19": "677"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Iran": {
+    "abv": "IR",
+    "cord": {
+    "latitude": 32.427908,
+    "longitude": 53.68804599999999
+    },
+    "inbound": {
+    "in14/15": "11338",
+    "in15/16": "12269",
+    "in16/17": "12643",
+    "in17/18": "12783",
+    "in18/19": "12142",
+    "in19/20": 11451
+    },
+    "outbound": {
+    "out14/15": "2",
+    "out15/16": "3",
+    "out16/17": "1",
+    "out17/18": "2",
+    "out18/19": "28"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Iraq": {
+    "abv": "IQ",
+    "cord": {
+    "latitude": 33.223191,
+    "longitude": 43.679291
+    },
+    "inbound": {
+    "in14/15": "1727",
+    "in15/16": "1901",
+    "in16/17": "1698",
+    "in17/18": "1438",
+    "in18/19": "1237",
+    "in19/20": 965
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "1",
+    "out16/17": "2",
+    "out17/18": "3",
+    "out18/19": "4"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Ireland": {
+    "abv": "IE",
+    "cord": {
+    "latitude": 53.41291,
+    "longitude": -8.243889999999999
+    },
+    "inbound": {
+    "in14/15": "1192",
+    "in15/16": "1183",
+    "in16/17": "1217",
+    "in17/18": "1141",
+    "in18/19": "1180",
+    "in19/20": 1228
+    },
+    "outbound": {
+    "out14/15": "10230",
+    "out15/16": "11070",
+    "out16/17": "11492",
+    "out17/18": "11965",
+    "out18/19": "11777"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Israel": {
+    "abv": "IL",
+    "cord": {
+    "latitude": 31.046051000000002,
+    "longitude": 34.851612
+    },
+    "inbound": {
+    "in14/15": "2370",
+    "in15/16": "2343",
+    "in16/17": "2393",
+    "in17/18": "2327",
+    "in18/19": "2392",
+    "in19/20": 2226
+    },
+    "outbound": {
+    "out14/15": "3317",
+    "out15/16": "2435",
+    "out16/17": "2999",
+    "out17/18": "3355",
+    "out18/19": "3532"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 6872.056065000001,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 3130.2743140000002,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "43,116"
+    },
+    "Italy": {
+    "abv": "IT",
+    "cord": {
+    "latitude": 41.87194,
+    "longitude": 12.56738
+    },
+    "inbound": {
+    "in14/15": "4863",
+    "in15/16": "5155",
+    "in16/17": "5593",
+    "in17/18": "5789",
+    "in18/19": "6114",
+    "in19/20": 6063
+    },
+    "outbound": {
+    "out14/15": "33768",
+    "out15/16": "34894",
+    "out16/17": "35366",
+    "out17/18": "36945",
+    "out18/19": "39043"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 6707.071868,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 1925.9493309999998,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "34,536"
+    },
+    "Jamaica": {
+    "abv": "JM",
+    "cord": {
+    "latitude": 18.109581,
+    "longitude": -77.297508
+    },
+    "inbound": {
+    "in14/15": "2440",
+    "in15/16": "2510",
+    "in16/17": "2797",
+    "in17/18": "2785",
+    "in18/19": "2820",
+    "in19/20": 2884
+    },
+    "outbound": {
+    "out14/15": "1047",
+    "out15/16": "1153",
+    "out16/17": "1171",
+    "out17/18": "1140",
+    "out18/19": "1040"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Japan": {
+    "abv": "JP",
+    "cord": {
+    "latitude": 36.204824,
+    "longitude": 138.252924
+    },
+    "inbound": {
+    "in14/15": "19064",
+    "in15/16": "19060",
+    "in16/17": "18780",
+    "in17/18": "18753",
+    "in18/19": "18105",
+    "in19/20": 17554
+    },
+    "outbound": {
+    "out14/15": "6053",
+    "out15/16": "7145",
+    "out16/17": "7531",
+    "out17/18": "8467",
+    "out18/19": "8928"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 8783.934665,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 5234.479205,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "41,712"
+    },
+    "Jordan": {
+    "abv": "JO",
+    "cord": {
+    "latitude": 30.585164000000002,
+    "longitude": 36.238414
+    },
+    "inbound": {
+    "in14/15": "2215",
+    "in15/16": "2330",
+    "in16/17": "2312",
+    "in17/18": "2420",
+    "in18/19": "2435",
+    "in19/20": 2441
+    },
+    "outbound": {
+    "out14/15": "985",
+    "out15/16": "969",
+    "out16/17": "735",
+    "out17/18": "1017",
+    "out18/19": "1064"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Kazakhstan": {
+    "abv": "KZ",
+    "cord": {
+    "latitude": 48.019573,
+    "longitude": 66.923684
+    },
+    "inbound": {
+    "in14/15": "2017",
+    "in15/16": "1935",
+    "in16/17": "1792",
+    "in17/18": "1865",
+    "in18/19": "1879",
+    "in19/20": 2091
+    },
+    "outbound": {
+    "out14/15": "55",
+    "out15/16": "56",
+    "out16/17": "76",
+    "out17/18": "50",
+    "out18/19": "49"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Kenya": {
+    "abv": "KE",
+    "cord": {
+    "latitude": -0.023559,
+    "longitude": 37.906193
+    },
+    "inbound": {
+    "in14/15": "3072",
+    "in15/16": "3019",
+    "in16/17": "3189",
+    "in17/18": "3322",
+    "in18/19": "3451",
+    "in19/20": 3710
+    },
+    "outbound": {
+    "out14/15": "634",
+    "out15/16": "681",
+    "out16/17": "778",
+    "out17/18": "927",
+    "out18/19": "926"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Kiribati": {
+    "abv": "KI",
+    "cord": {
+    "latitude": -3.3704169999999998,
+    "longitude": -168.734039
+    },
+    "inbound": {
+    "in14/15": "41",
+    "in15/16": "53",
+    "in16/17": "64",
+    "in17/18": "58",
+    "in18/19": "91",
+    "in19/20": 67
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "2",
+    "out17/18": "3",
+    "out18/19": "4"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Kosovo": {
+    "abv": "XK",
+    "cord": {
+    "latitude": 42.602636,
+    "longitude": 20.902977
+    },
+    "inbound": {
+    "in14/15": "170",
+    "in15/16": "268",
+    "in16/17": "244",
+    "in17/18": "229",
+    "in18/19": "159",
+    "in19/20": 173
+    },
+    "outbound": {
+    "out14/15": "18",
+    "out15/16": "29",
+    "out16/17": "28",
+    "out17/18": "43",
+    "out18/19": "87"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Kuwait": {
+    "abv": "KW",
+    "cord": {
+    "latitude": 29.311659999999996,
+    "longitude": 47.481766
+    },
+    "inbound": {
+    "in14/15": "9034",
+    "in15/16": "9772",
+    "in16/17": "9825",
+    "in17/18": "10190",
+    "in18/19": "9195",
+    "in19/20": 8375
+    },
+    "outbound": {
+    "out14/15": "28",
+    "out15/16": "23",
+    "out16/17": "13",
+    "out17/18": "0",
+    "out18/19": "5"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Kyrgyzstan": {
+    "abv": "KG",
+    "cord": {
+    "latitude": 41.20438,
+    "longitude": 74.766098
+    },
+    "inbound": {
+    "in14/15": "227",
+    "in15/16": "227",
+    "in16/17": "216",
+    "in17/18": "227",
+    "in18/19": "290",
+    "in19/20": 357
+    },
+    "outbound": {
+    "out14/15": "30",
+    "out15/16": "59",
+    "out16/17": "29",
+    "out17/18": "63",
+    "out18/19": "71"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Laos": {
+    "abv": "LA",
+    "cord": {
+    "latitude": 19.856270000000002,
+    "longitude": 102.495496
+    },
+    "inbound": {
+    "in14/15": "63",
+    "in15/16": "63",
+    "in16/17": "91",
+    "in17/18": "104",
+    "in18/19": "96",
+    "in19/20": 131
+    },
+    "outbound": {
+    "out14/15": "15",
+    "out15/16": "12",
+    "out16/17": "23",
+    "out17/18": "10",
+    "out18/19": "14"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Latvia": {
+    "abv": "LV",
+    "cord": {
+    "latitude": 56.879635,
+    "longitude": 24.603189
+    },
+    "inbound": {
+    "in14/15": "276",
+    "in15/16": "281",
+    "in16/17": "244",
+    "in17/18": "236",
+    "in18/19": "244",
+    "in19/20": 274
+    },
+    "outbound": {
+    "out14/15": "75",
+    "out15/16": "77",
+    "out16/17": "53",
+    "out17/18": "75",
+    "out18/19": "62"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Lebanon": {
+    "abv": "LB",
+    "cord": {
+    "latitude": 33.854721000000005,
+    "longitude": 35.862285
+    },
+    "inbound": {
+    "in14/15": "1416",
+    "in15/16": "1486",
+    "in16/17": "1556",
+    "in17/18": "1633",
+    "in18/19": "1672",
+    "in19/20": 1709
+    },
+    "outbound": {
+    "out14/15": "37",
+    "out15/16": "29",
+    "out16/17": "56",
+    "out17/18": "64",
+    "out18/19": "82"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Lesotho": {
+    "abv": "LS",
+    "cord": {
+    "latitude": -29.609988,
+    "longitude": 28.233608
+    },
+    "inbound": {
+    "in14/15": "56",
+    "in15/16": "61",
+    "in16/17": "59",
+    "in17/18": "55",
+    "in18/19": "58",
+    "in19/20": 69
+    },
+    "outbound": {
+    "out14/15": "14",
+    "out15/16": "6",
+    "out16/17": "23",
+    "out17/18": "1",
+    "out18/19": "4"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Liberia": {
+    "abv": "LR",
+    "cord": {
+    "latitude": 6.4280550000000005,
+    "longitude": -9.429499
+    },
+    "inbound": {
+    "in14/15": "168",
+    "in15/16": "205",
+    "in16/17": "221",
+    "in17/18": "262",
+    "in18/19": "255",
+    "in19/20": 260
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "15",
+    "out16/17": "30",
+    "out17/18": "37",
+    "out18/19": "40"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Libya": {
+    "abv": "LY",
+    "cord": {
+    "latitude": 26.3351,
+    "longitude": 17.228331
+    },
+    "inbound": {
+    "in14/15": "1578",
+    "in15/16": "1514",
+    "in16/17": "1311",
+    "in17/18": "1064",
+    "in18/19": "884",
+    "in19/20": 720
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Liechtenstein": {
+    "abv": "LI",
+    "cord": {
+    "latitude": 47.166000000000004,
+    "longitude": 9.555373
+    },
+    "inbound": {
+    "in14/15": "8",
+    "in15/16": "8",
+    "in16/17": "8",
+    "in17/18": "9",
+    "in18/19": "8",
+    "in19/20": 9
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "8",
+    "out17/18": "1",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Lithuania": {
+    "abv": "LT",
+    "cord": {
+    "latitude": 55.169438,
+    "longitude": 23.881275
+    },
+    "inbound": {
+    "in14/15": "293",
+    "in15/16": "315",
+    "in16/17": "333",
+    "in17/18": "327",
+    "in18/19": "318",
+    "in19/20": 320
+    },
+    "outbound": {
+    "out14/15": "110",
+    "out15/16": "154",
+    "out16/17": "103",
+    "out17/18": "182",
+    "out18/19": "122"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Luxembourg": {
+    "abv": "LU",
+    "cord": {
+    "latitude": 49.815273,
+    "longitude": 6.129583
+    },
+    "inbound": {
+    "in14/15": "97",
+    "in15/16": "86",
+    "in16/17": "118",
+    "in17/18": "102",
+    "in18/19": "101",
+    "in19/20": 88
+    },
+    "outbound": {
+    "out14/15": "372",
+    "out15/16": "334",
+    "out16/17": "256",
+    "out17/18": "284",
+    "out18/19": "308"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Macau": {
+    "abv": "MO",
+    "cord": {
+    "latitude": 22.198745000000002,
+    "longitude": 113.543873
+    },
+    "inbound": {
+    "in14/15": "573",
+    "in15/16": "586",
+    "in16/17": "605",
+    "in17/18": "555",
+    "in18/19": "558",
+    "in19/20": 503
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "4",
+    "out16/17": "33",
+    "out17/18": "4",
+    "out18/19": "23"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Madagascar": {
+    "abv": "MG",
+    "cord": {
+    "latitude": -18.766947000000002,
+    "longitude": 46.869107
+    },
+    "inbound": {
+    "in14/15": "122",
+    "in15/16": "126",
+    "in16/17": "143",
+    "in17/18": "132",
+    "in18/19": "159",
+    "in19/20": 181
+    },
+    "outbound": {
+    "out14/15": "114",
+    "out15/16": "175",
+    "out16/17": "145",
+    "out17/18": "159",
+    "out18/19": "168"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Malawi": {
+    "abv": "MW",
+    "cord": {
+    "latitude": -13.254307999999998,
+    "longitude": 34.301525
+    },
+    "inbound": {
+    "in14/15": "272",
+    "in15/16": "289",
+    "in16/17": "317",
+    "in17/18": "306",
+    "in18/19": "311",
+    "in19/20": 315
+    },
+    "outbound": {
+    "out14/15": "195",
+    "out15/16": "217",
+    "out16/17": "215",
+    "out17/18": "263",
+    "out18/19": "268"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Malaysia": {
+    "abv": "MY",
+    "cord": {
+    "latitude": 4.210483999999999,
+    "longitude": 101.97576600000001
+    },
+    "inbound": {
+    "in14/15": "7231",
+    "in15/16": "7834",
+    "in16/17": "8247",
+    "in17/18": "8271",
+    "in18/19": "7709",
+    "in19/20": 6910
+    },
+    "outbound": {
+    "out14/15": "152",
+    "out15/16": "279",
+    "out16/17": "310",
+    "out17/18": "153",
+    "out18/19": "241"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Maldives": {
+    "abv": "MV",
+    "cord": {
+    "latitude": 3.202778,
+    "longitude": 73.22068
+    },
+    "inbound": {
+    "in14/15": "34",
+    "in15/16": "37",
+    "in16/17": "40",
+    "in17/18": "32",
+    "in18/19": "25",
+    "in19/20": 29
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "2"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Mali": {
+    "abv": "ML",
+    "cord": {
+    "latitude": 17.570692,
+    "longitude": -3.9961660000000006
+    },
+    "inbound": {
+    "in14/15": "356",
+    "in15/16": "331",
+    "in16/17": "310",
+    "in17/18": "302",
+    "in18/19": "291",
+    "in19/20": 285
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "3",
+    "out16/17": "2",
+    "out17/18": "3",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Malta": {
+    "abv": "MT",
+    "cord": {
+    "latitude": 35.937496,
+    "longitude": 14.375416
+    },
+    "inbound": {
+    "in14/15": "29",
+    "in15/16": "23",
+    "in16/17": "25",
+    "in17/18": "34",
+    "in18/19": "38",
+    "in19/20": 52
+    },
+    "outbound": {
+    "out14/15": "65",
+    "out15/16": "144",
+    "out16/17": "190",
+    "out17/18": "198",
+    "out18/19": "94"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Marshall Islands": {
+    "abv": "MH",
+    "cord": {
+    "latitude": 7.131474000000001,
+    "longitude": 171.184478
+    },
+    "inbound": {
+    "in14/15": "17",
+    "in15/16": "18",
+    "in16/17": "10",
+    "in17/18": "22",
+    "in18/19": "16",
+    "in19/20": 8
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "5",
+    "out16/17": "4",
+    "out17/18": "8",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Martinique": {
+    "abv": "MQ",
+    "cord": {
+    "latitude": 14.641528,
+    "longitude": -61.024174
+    },
+    "inbound": {
+    "in14/15": "3",
+    "in15/16": "9",
+    "in16/17": "9",
+    "in17/18": "12",
+    "in18/19": "11",
+    "in19/20": 8
+    },
+    "outbound": {
+    "out14/15": "43",
+    "out15/16": "85",
+    "out16/17": "72",
+    "out17/18": "121",
+    "out18/19": "83"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Mauritania": {
+    "abv": "MR",
+    "cord": {
+    "latitude": 21.00789,
+    "longitude": -10.940835
+    },
+    "inbound": {
+    "in14/15": "81",
+    "in15/16": "97",
+    "in16/17": "103",
+    "in17/18": "106",
+    "in18/19": "84",
+    "in19/20": 67
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "2",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Mauritius": {
+    "abv": "MU",
+    "cord": {
+    "latitude": -20.348404000000002,
+    "longitude": 57.552152
+    },
+    "inbound": {
+    "in14/15": "231",
+    "in15/16": "250",
+    "in16/17": "283",
+    "in17/18": "288",
+    "in18/19": "311",
+    "in19/20": 332
+    },
+    "outbound": {
+    "out14/15": "4",
+    "out15/16": "4",
+    "out16/17": "3",
+    "out17/18": "22",
+    "out18/19": "54"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Mexico": {
+    "abv": "MX",
+    "cord": {
+    "latitude": 23.634501,
+    "longitude": -102.552784
+    },
+    "inbound": {
+    "in14/15": "17052",
+    "in15/16": "16733",
+    "in16/17": "16835",
+    "in17/18": "15468",
+    "in18/19": "15229",
+    "in19/20": 14348
+    },
+    "outbound": {
+    "out14/15": "4712",
+    "out15/16": "5178",
+    "out16/17": "5736",
+    "out17/18": "5963",
+    "out18/19": "6340"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Micronesia": {
+    "abv": "FM",
+    "cord": {
+    "latitude": 7.425553999999999,
+    "longitude": 150.550812
+    },
+    "inbound": {
+    "in14/15": "39",
+    "in15/16": "22",
+    "in16/17": "28",
+    "in17/18": "38",
+    "in18/19": "44",
+    "in19/20": 17
+    },
+    "outbound": {
+    "out14/15": "18",
+    "out15/16": "0",
+    "out16/17": "33",
+    "out17/18": "0",
+    "out18/19": "20"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Moldova": {
+    "abv": "MD",
+    "cord": {
+    "latitude": 47.411631,
+    "longitude": 28.369884999999996
+    },
+    "inbound": {
+    "in14/15": "322",
+    "in15/16": "281",
+    "in16/17": "252",
+    "in17/18": "237",
+    "in18/19": "205",
+    "in19/20": 214
+    },
+    "outbound": {
+    "out14/15": "10",
+    "out15/16": "1",
+    "out16/17": "7",
+    "out17/18": "6",
+    "out18/19": "9"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Monaco": {
+    "abv": "MC",
+    "cord": {
+    "latitude": 43.750298,
+    "longitude": 7.412841
+    },
+    "inbound": {
+    "in14/15": "18",
+    "in15/16": "23",
+    "in16/17": "22",
+    "in17/18": "17",
+    "in18/19": "17",
+    "in19/20": 20
+    },
+    "outbound": {
+    "out14/15": "1",
+    "out15/16": "3",
+    "out16/17": "13",
+    "out17/18": "0",
+    "out18/19": "5"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Mongolia": {
+    "abv": "MN",
+    "cord": {
+    "latitude": 46.862496,
+    "longitude": 103.84665600000001
+    },
+    "inbound": {
+    "in14/15": "1481",
+    "in15/16": "1434",
+    "in16/17": "1410",
+    "in17/18": "1481",
+    "in18/19": "1336",
+    "in19/20": 1438
+    },
+    "outbound": {
+    "out14/15": "71",
+    "out15/16": "71",
+    "out16/17": "90",
+    "out17/18": "85",
+    "out18/19": "132"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Montenegro": {
+    "abv": "ME",
+    "cord": {
+    "latitude": 42.708678000000006,
+    "longitude": 19.37439
+    },
+    "inbound": {
+    "in14/15": "121",
+    "in15/16": "126",
+    "in16/17": "101",
+    "in17/18": "115",
+    "in18/19": "112",
+    "in19/20": 122
+    },
+    "outbound": {
+    "out14/15": "5",
+    "out15/16": "32",
+    "out16/17": "13",
+    "out17/18": "21",
+    "out18/19": "34"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Montserrat": {
+    "abv": "MS",
+    "cord": {
+    "latitude": 16.742498,
+    "longitude": -62.187366000000004
+    },
+    "inbound": {
+    "in14/15": "1",
+    "in15/16": "4",
+    "in16/17": "3",
+    "in17/18": "3",
+    "in18/19": "7",
+    "in19/20": 4
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Morocco": {
+    "abv": "MA",
+    "cord": {
+    "latitude": 31.791702,
+    "longitude": -7.09262
+    },
+    "inbound": {
+    "in14/15": "1373",
+    "in15/16": "1495",
+    "in16/17": "1634",
+    "in17/18": "1563",
+    "in18/19": "1461",
+    "in19/20": 1499
+    },
+    "outbound": {
+    "out14/15": "1413",
+    "out15/16": "1403",
+    "out16/17": "1770",
+    "out17/18": "1411",
+    "out18/19": "1749"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Mozambique": {
+    "abv": "MZ",
+    "cord": {
+    "latitude": -18.665695,
+    "longitude": 35.529562
+    },
+    "inbound": {
+    "in14/15": "108",
+    "in15/16": "109",
+    "in16/17": "120",
+    "in17/18": "111",
+    "in18/19": "113",
+    "in19/20": 127
+    },
+    "outbound": {
+    "out14/15": "32",
+    "out15/16": "45",
+    "out16/17": "30",
+    "out17/18": "48",
+    "out18/19": "30"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Namibia": {
+    "abv": "NM",
+    "cord": {
+    "latitude": -22.957639999999998,
+    "longitude": 18.49041
+    },
+    "inbound": {
+    "in14/15": "67",
+    "in15/16": "76",
+    "in16/17": "93",
+    "in17/18": "101",
+    "in18/19": "105",
+    "in19/20": 121
+    },
+    "outbound": {
+    "out14/15": "227",
+    "out15/16": "245",
+    "out16/17": "207",
+    "out17/18": "237",
+    "out18/19": "270"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Nauru": {
+    "abv": "NR",
+    "cord": {
+    "latitude": -0.522778,
+    "longitude": 166.931503
+    },
+    "inbound": {
+    "in14/15": "9",
+    "in15/16": "0",
+    "in16/17": "1",
+    "in17/18": "1",
+    "in18/19": "1",
+    "in19/20": 2
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Nepal": {
+    "abv": "NP",
+    "cord": {
+    "latitude": 28.394857000000002,
+    "longitude": 84.12400799999999
+    },
+    "inbound": {
+    "in14/15": "8158",
+    "in15/16": "9662",
+    "in16/17": "11607",
+    "in17/18": "13270",
+    "in18/19": "13229",
+    "in19/20": 12730
+    },
+    "outbound": {
+    "out14/15": "368",
+    "out15/16": "370",
+    "out16/17": "581",
+    "out17/18": "566",
+    "out18/19": "647"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Netherlands": {
+    "abv": "NL",
+    "cord": {
+    "latitude": 52.132633,
+    "longitude": 5.291266
+    },
+    "inbound": {
+    "in14/15": "2257",
+    "in15/16": "2445",
+    "in16/17": "2551",
+    "in17/18": "2701",
+    "in18/19": "2681",
+    "in19/20": 2727
+    },
+    "outbound": {
+    "out14/15": "2929",
+    "out15/16": "3433",
+    "out16/17": "3437",
+    "out17/18": "3966",
+    "out18/19": "4182"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "53,100"
+    },
+    "Netherlands Antilles": {
+    "abv": "AN",
+    "cord": {
+    "latitude": 12.226078999999999,
+    "longitude": -69.060087
+    },
+    "inbound": {
+    "in14/15": "-",
+    "in15/16": "-",
+    "in16/17": "-",
+    "in17/18": "-",
+    "in18/19": "-",
+    "in19/20": 216
+    },
+    "outbound": {
+    "out14/15": "-",
+    "out15/16": "-",
+    "out16/17": "-",
+    "out17/18": "-",
+    "out18/19": "-"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "New Caledonia": {
+    "abv": "NC",
+    "cord": {
+    "latitude": -20.904304999999997,
+    "longitude": 165.618042
+    },
+    "inbound": {
+    "in14/15": "7",
+    "in15/16": "2",
+    "in16/17": "5",
+    "in17/18": "6",
+    "in18/19": "4",
+    "in19/20": 6
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "2",
+    "out17/18": "0",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "New Zealand": {
+    "abv": "NZ",
+    "cord": {
+    "latitude": -40.900557,
+    "longitude": 174.88597099999998
+    },
+    "inbound": {
+    "in14/15": "1472",
+    "in15/16": "1608",
+    "in16/17": "1741",
+    "in17/18": "1785",
+    "in18/19": "1841",
+    "in19/20": 1856
+    },
+    "outbound": {
+    "out14/15": "3325",
+    "out15/16": "3806",
+    "out16/17": "3777",
+    "out17/18": "3885",
+    "out18/19": "4233"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": 4738.901486
+    },
+    "yearly_c_o_l": "42,756"
+    },
+    "Nicaragua": {
+    "abv": "NI",
+    "cord": {
+    "latitude": 12.865416,
+    "longitude": -85.207229
+    },
+    "inbound": {
+    "in14/15": "418",
+    "in15/16": "395",
+    "in16/17": "398",
+    "in17/18": "409",
+    "in18/19": "443",
+    "in19/20": 489
+    },
+    "outbound": {
+    "out14/15": "1930",
+    "out15/16": "2320",
+    "out16/17": "1922",
+    "out17/18": "1641",
+    "out18/19": "202"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Niger": {
+    "abv": "NE",
+    "cord": {
+    "latitude": 17.607789,
+    "longitude": 8.081666
+    },
+    "inbound": {
+    "in14/15": "199",
+    "in15/16": "246",
+    "in16/17": "177",
+    "in17/18": "288",
+    "in18/19": "257",
+    "in19/20": 277
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "5",
+    "out16/17": "6",
+    "out17/18": "0",
+    "out18/19": "6"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Nigeria": {
+    "abv": "NG",
+    "cord": {
+    "latitude": 9.081999,
+    "longitude": 8.675277000000001
+    },
+    "inbound": {
+    "in14/15": "9494",
+    "in15/16": "10674",
+    "in16/17": "11710",
+    "in17/18": "12693",
+    "in18/19": "13423",
+    "in19/20": 13762
+    },
+    "outbound": {
+    "out14/15": "11",
+    "out15/16": "11",
+    "out16/17": "42",
+    "out17/18": "34",
+    "out18/19": "38"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Niue": {
+    "abv": "NU",
+    "cord": {
+    "latitude": -19.054445,
+    "longitude": -169.867233
+    },
+    "inbound": {
+    "in14/15": "8",
+    "in15/16": "2",
+    "in16/17": "4",
+    "in17/18": "4",
+    "in18/19": "2",
+    "in19/20": 1
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "3"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Norfolk Island": {
+    "abv": "NF",
+    "cord": {
+    "latitude": -29.040834999999998,
+    "longitude": 167.954712
+    },
+    "inbound": {
+    "in14/15": "0",
+    "in15/16": "2",
+    "in16/17": "1",
+    "in17/18": "3",
+    "in18/19": "1",
+    "in19/20": 2
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "North Korea": {
+    "abv": "KP",
+    "cord": {
+    "latitude": 40.339852,
+    "longitude": 127.510093
+    },
+    "inbound": {
+    "in14/15": "8",
+    "in15/16": "18",
+    "in16/17": "8",
+    "in17/18": "3",
+    "in18/19": "2",
+    "in19/20": 1
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Norway": {
+    "abv": "NO",
+    "cord": {
+    "latitude": 60.472024,
+    "longitude": 8.468946
+    },
+    "inbound": {
+    "in14/15": "2498",
+    "in15/16": "2391",
+    "in16/17": "2293",
+    "in17/18": "2105",
+    "in18/19": "1988",
+    "in19/20": 1886
+    },
+    "outbound": {
+    "out14/15": "631",
+    "out15/16": "583",
+    "out16/17": "670",
+    "out17/18": "764",
+    "out18/19": "811"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 5680.065165999999,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 0,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "82,500"
+    },
+    "Oman": {
+    "abv": "OM",
+    "cord": {
+    "latitude": 21.512583,
+    "longitude": 55.923255000000005
+    },
+    "inbound": {
+    "in14/15": "2200",
+    "in15/16": "2856",
+    "in16/17": "2876",
+    "in17/18": "3097",
+    "in18/19": "2963",
+    "in19/20": 2808
+    },
+    "outbound": {
+    "out14/15": "92",
+    "out15/16": "143",
+    "out16/17": "102",
+    "out17/18": "96",
+    "out18/19": "149"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Pakistan": {
+    "abv": "PK",
+    "cord": {
+    "latitude": 30.375321000000003,
+    "longitude": 69.345116
+    },
+    "inbound": {
+    "in14/15": "5354",
+    "in15/16": "6141",
+    "in16/17": "7015",
+    "in17/18": "7537",
+    "in18/19": "7957",
+    "in19/20": 7939
+    },
+    "outbound": {
+    "out14/15": "10",
+    "out15/16": "6",
+    "out16/17": "6",
+    "out17/18": "5",
+    "out18/19": "7"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Palau": {
+    "abv": "PW",
+    "cord": {
+    "latitude": 7.51498,
+    "longitude": 134.58252
+    },
+    "inbound": {
+    "in14/15": "10",
+    "in15/16": "12",
+    "in16/17": "15",
+    "in17/18": "31",
+    "in18/19": "26",
+    "in19/20": 34
+    },
+    "outbound": {
+    "out14/15": "65",
+    "out15/16": "34",
+    "out16/17": "20",
+    "out17/18": "34",
+    "out18/19": "48"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Palestinian Territories": {
+    "abv": "PS",
+    "cord": {
+    "latitude": 31.952162,
+    "longitude": 35.233154
+    },
+    "inbound": {
+    "in14/15": "458",
+    "in15/16": "468",
+    "in16/17": "423",
+    "in17/18": "480",
+    "in18/19": "468",
+    "in19/20": 478
+    },
+    "outbound": {
+    "out14/15": "30",
+    "out15/16": "15",
+    "out16/17": "17",
+    "out17/18": "27",
+    "out18/19": "14"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Panama": {
+    "abv": "PA",
+    "cord": {
+    "latitude": 8.537981,
+    "longitude": -80.782127
+    },
+    "inbound": {
+    "in14/15": "1384",
+    "in15/16": "1537",
+    "in16/17": "1588",
+    "in17/18": "1749",
+    "in18/19": "1845",
+    "in19/20": 1708
+    },
+    "outbound": {
+    "out14/15": "1065",
+    "out15/16": "1256",
+    "out16/17": "1108",
+    "out17/18": "1339",
+    "out18/19": "1323"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Papua New Guinea": {
+    "abv": "PG",
+    "cord": {
+    "latitude": -6.314993,
+    "longitude": 143.95555
+    },
+    "inbound": {
+    "in14/15": "87",
+    "in15/16": "87",
+    "in16/17": "77",
+    "in17/18": "83",
+    "in18/19": "86",
+    "in19/20": 88
+    },
+    "outbound": {
+    "out14/15": "6",
+    "out15/16": "3",
+    "out16/17": "4",
+    "out17/18": "1",
+    "out18/19": "15"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Paraguay": {
+    "abv": "PY",
+    "cord": {
+    "latitude": -23.442503,
+    "longitude": -58.44383199999999
+    },
+    "inbound": {
+    "in14/15": "505",
+    "in15/16": "564",
+    "in16/17": "587",
+    "in17/18": "590",
+    "in18/19": "619",
+    "in19/20": 609
+    },
+    "outbound": {
+    "out14/15": "48",
+    "out15/16": "87",
+    "out16/17": "102",
+    "out17/18": "82",
+    "out18/19": "57"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Peru": {
+    "abv": "PE",
+    "cord": {
+    "latitude": -9.189967,
+    "longitude": -75.015152
+    },
+    "inbound": {
+    "in14/15": "2763",
+    "in15/16": "3256",
+    "in16/17": "3200",
+    "in17/18": "3235",
+    "in18/19": "3409",
+    "in19/20": 3547
+    },
+    "outbound": {
+    "out14/15": "3481",
+    "out15/16": "3513",
+    "out16/17": "3695",
+    "out17/18": "3939",
+    "out18/19": "4041"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Philippines": {
+    "abv": "PH",
+    "cord": {
+    "latitude": 12.879721,
+    "longitude": 121.77401699999999
+    },
+    "inbound": {
+    "in14/15": "3026",
+    "in15/16": "2886",
+    "in16/17": "3006",
+    "in17/18": "3225",
+    "in18/19": "3320",
+    "in19/20": 3295
+    },
+    "outbound": {
+    "out14/15": "353",
+    "out15/16": "460",
+    "out16/17": "464",
+    "out17/18": "409",
+    "out18/19": "381"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Poland": {
+    "abv": "PL",
+    "cord": {
+    "latitude": 51.919438,
+    "longitude": 19.145135999999997
+    },
+    "inbound": {
+    "in14/15": "1493",
+    "in15/16": "1460",
+    "in16/17": "1489",
+    "in17/18": "1477",
+    "in18/19": "1526",
+    "in19/20": 1513
+    },
+    "outbound": {
+    "out14/15": "730",
+    "out15/16": "789",
+    "out16/17": "834",
+    "out17/18": "976",
+    "out18/19": "899"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Portugal": {
+    "abv": "PT",
+    "cord": {
+    "latitude": 39.399871999999995,
+    "longitude": -8.224454
+    },
+    "inbound": {
+    "in14/15": "915",
+    "in15/16": "919",
+    "in16/17": "929",
+    "in17/18": "937",
+    "in18/19": "973",
+    "in19/20": 934
+    },
+    "outbound": {
+    "out14/15": "423",
+    "out15/16": "523",
+    "out16/17": "693",
+    "out17/18": "857",
+    "out18/19": "1096"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Qatar": {
+    "abv": "QA",
+    "cord": {
+    "latitude": 25.354826,
+    "longitude": 51.183884
+    },
+    "inbound": {
+    "in14/15": "1252",
+    "in15/16": "1443",
+    "in16/17": "1420",
+    "in17/18": "1127",
+    "in18/19": "834",
+    "in19/20": 670
+    },
+    "outbound": {
+    "out14/15": "138",
+    "out15/16": "122",
+    "out16/17": "108",
+    "out17/18": "96",
+    "out18/19": "62"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Romania": {
+    "abv": "RO",
+    "cord": {
+    "latitude": 45.943160999999996,
+    "longitude": 24.96676
+    },
+    "inbound": {
+    "in14/15": "1220",
+    "in15/16": "1105",
+    "in16/17": "1173",
+    "in17/18": "1071",
+    "in18/19": "1016",
+    "in19/20": 1000
+    },
+    "outbound": {
+    "out14/15": "181",
+    "out15/16": "275",
+    "out16/17": "297",
+    "out17/18": "358",
+    "out18/19": "288"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Russia": {
+    "abv": "RU",
+    "cord": {
+    "latitude": 61.52401,
+    "longitude": 105.31875600000001
+    },
+    "inbound": {
+    "in14/15": "5562",
+    "in15/16": "5444",
+    "in16/17": "5412",
+    "in17/18": "5518",
+    "in18/19": "5292",
+    "in19/20": 5293
+    },
+    "outbound": {
+    "out14/15": "1187",
+    "out15/16": "1319",
+    "out16/17": "1499",
+    "out17/18": "1321",
+    "out18/19": "1305"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Rwanda": {
+    "abv": "RW",
+    "cord": {
+    "latitude": -1.940278,
+    "longitude": 29.873888
+    },
+    "inbound": {
+    "in14/15": "800",
+    "in15/16": "928",
+    "in16/17": "1088",
+    "in17/18": "1232",
+    "in18/19": "1292",
+    "in19/20": 1444
+    },
+    "outbound": {
+    "out14/15": "275",
+    "out15/16": "411",
+    "out16/17": "380",
+    "out17/18": "377",
+    "out18/19": "460"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Saint Helena": {
+    "abv": "SH",
+    "cord": {
+    "latitude": -24.143473999999998,
+    "longitude": -10.030696
+    },
+    "inbound": {
+    "in14/15": "0",
+    "in15/16": "3",
+    "in16/17": "1",
+    "in17/18": "1",
+    "in18/19": "8",
+    "in19/20": 2
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Samoa": {
+    "abv": "WS",
+    "cord": {
+    "latitude": -13.759029,
+    "longitude": -172.10462900000002
+    },
+    "inbound": {
+    "in14/15": "21",
+    "in15/16": "60",
+    "in16/17": "56",
+    "in17/18": "93",
+    "in18/19": "103",
+    "in19/20": 76
+    },
+    "outbound": {
+    "out14/15": "55",
+    "out15/16": "37",
+    "out16/17": "66",
+    "out17/18": "79",
+    "out18/19": "88"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "San Marino": {
+    "abv": "SM",
+    "cord": {
+    "latitude": 43.94236,
+    "longitude": 12.457777
+    },
+    "inbound": {
+    "in14/15": "1",
+    "in15/16": "3",
+    "in16/17": "2",
+    "in17/18": "4",
+    "in18/19": "3",
+    "in19/20": 4
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Saudi Arabia": {
+    "abv": "SA",
+    "cord": {
+    "latitude": 23.885942,
+    "longitude": 45.079162
+    },
+    "inbound": {
+    "in14/15": "59945",
+    "in15/16": "61287",
+    "in16/17": "52611",
+    "in17/18": "44432",
+    "in18/19": "37080",
+    "in19/20": 30957
+    },
+    "outbound": {
+    "out14/15": "11",
+    "out15/16": "16",
+    "out16/17": "20",
+    "out17/18": "8",
+    "out18/19": "4"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Senegal": {
+    "abv": "SN",
+    "cord": {
+    "latitude": 14.497401000000002,
+    "longitude": -14.452361999999999
+    },
+    "inbound": {
+    "in14/15": "633",
+    "in15/16": "603",
+    "in16/17": "569",
+    "in17/18": "544",
+    "in18/19": "504",
+    "in19/20": 485
+    },
+    "outbound": {
+    "out14/15": "199",
+    "out15/16": "281",
+    "out16/17": "344",
+    "out17/18": "337",
+    "out18/19": "376"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Serbia": {
+    "abv": "RS",
+    "cord": {
+    "latitude": 44.016521000000004,
+    "longitude": 21.005859
+    },
+    "inbound": {
+    "in14/15": "970",
+    "in15/16": "1023",
+    "in16/17": "1055",
+    "in17/18": "1079",
+    "in18/19": "1098",
+    "in19/20": 1044
+    },
+    "outbound": {
+    "out14/15": "76",
+    "out15/16": "179",
+    "out16/17": "116",
+    "out17/18": "150",
+    "out18/19": "90"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Seychelles": {
+    "abv": "SC",
+    "cord": {
+    "latitude": -4.679574,
+    "longitude": 55.491977
+    },
+    "inbound": {
+    "in14/15": "14",
+    "in15/16": "20",
+    "in16/17": "16",
+    "in17/18": "11",
+    "in18/19": "16",
+    "in19/20": 11
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "3"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Sierra Leone": {
+    "abv": "SL",
+    "cord": {
+    "latitude": 8.460555000000001,
+    "longitude": -11.779889
+    },
+    "inbound": {
+    "in14/15": "152",
+    "in15/16": "167",
+    "in16/17": "209",
+    "in17/18": "200",
+    "in18/19": "181",
+    "in19/20": 199
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "29",
+    "out16/17": "56",
+    "out17/18": "79",
+    "out18/19": "57"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Singapore": {
+    "abv": "SG",
+    "cord": {
+    "latitude": 1.352083,
+    "longitude": 103.819836
+    },
+    "inbound": {
+    "in14/15": "4727",
+    "in15/16": "4865",
+    "in16/17": "4677",
+    "in17/18": "4575",
+    "in18/19": "4632",
+    "in19/20": 4504
+    },
+    "outbound": {
+    "out14/15": "1080",
+    "out15/16": "969",
+    "out16/17": "1165",
+    "out17/18": "1121",
+    "out18/19": "1434"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Slovakia": {
+    "abv": "SK",
+    "cord": {
+    "latitude": 48.669026,
+    "longitude": 19.699023999999998
+    },
+    "inbound": {
+    "in14/15": "359",
+    "in15/16": "343",
+    "in16/17": "348",
+    "in17/18": "347",
+    "in18/19": "349",
+    "in19/20": 331
+    },
+    "outbound": {
+    "out14/15": "70",
+    "out15/16": "41",
+    "out16/17": "36",
+    "out17/18": "47",
+    "out18/19": "80"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Slovenia": {
+    "abv": "SI",
+    "cord": {
+    "latitude": 46.151241,
+    "longitude": 14.995463
+    },
+    "inbound": {
+    "in14/15": "245",
+    "in15/16": "256",
+    "in16/17": "245",
+    "in17/18": "250",
+    "in18/19": "256",
+    "in19/20": 260
+    },
+    "outbound": {
+    "out14/15": "47",
+    "out15/16": "49",
+    "out16/17": "103",
+    "out17/18": "105",
+    "out18/19": "118"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Solomon Islands": {
+    "abv": "SB",
+    "cord": {
+    "latitude": -9.645710000000001,
+    "longitude": 160.156194
+    },
+    "inbound": {
+    "in14/15": "7",
+    "in15/16": "5",
+    "in16/17": "8",
+    "in17/18": "9",
+    "in18/19": "15",
+    "in19/20": 17
+    },
+    "outbound": {
+    "out14/15": "3",
+    "out15/16": "3",
+    "out16/17": "10",
+    "out17/18": "3",
+    "out18/19": "15"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Somalia": {
+    "abv": "SO",
+    "cord": {
+    "latitude": 5.152149,
+    "longitude": 46.199616
+    },
+    "inbound": {
+    "in14/15": "32",
+    "in15/16": "35",
+    "in16/17": "50",
+    "in17/18": "67",
+    "in18/19": "76",
+    "in19/20": 68
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "10",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "South Africa": {
+    "abv": "ZA",
+    "cord": {
+    "latitude": -30.559482,
+    "longitude": 22.937506
+    },
+    "inbound": {
+    "in14/15": "1838",
+    "in15/16": "1813",
+    "in16/17": "1911",
+    "in17/18": "2040",
+    "in18/19": "2042",
+    "in19/20": 2224
+    },
+    "outbound": {
+    "out14/15": "5249",
+    "out15/16": "5782",
+    "out16/17": "6042",
+    "out17/18": "6001",
+    "out18/19": "5278"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "South Korea": {
+    "abv": "KR",
+    "cord": {
+    "latitude": 35.907757000000004,
+    "longitude": 127.766922
+    },
+    "inbound": {
+    "in14/15": "63710",
+    "in15/16": "61007",
+    "in16/17": "58663",
+    "in17/18": "54555",
+    "in18/19": "52250",
+    "in19/20": 49809
+    },
+    "outbound": {
+    "out14/15": "3520",
+    "out15/16": "3622",
+    "out16/17": "3770",
+    "out17/18": "3929",
+    "out18/19": "4558"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Spain": {
+    "abv": "ES",
+    "cord": {
+    "latitude": 40.463667,
+    "longitude": -3.7492199999999998
+    },
+    "inbound": {
+    "in14/15": "6143",
+    "in15/16": "6640",
+    "in16/17": "7164",
+    "in17/18": "7489",
+    "in18/19": "7262",
+    "in19/20": 7954
+    },
+    "outbound": {
+    "out14/15": "28325",
+    "out15/16": "29975",
+    "out16/17": "31230",
+    "out17/18": "32411",
+    "out18/19": "33849"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 7771.084062000001,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 1746.739547,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "30,396"
+    },
+    "Sri Lanka": {
+    "abv": "LK",
+    "cord": {
+    "latitude": 7.873054,
+    "longitude": 80.77179699999999
+    },
+    "inbound": {
+    "in14/15": "2882",
+    "in15/16": "3080",
+    "in16/17": "3263",
+    "in17/18": "3309",
+    "in18/19": "3334",
+    "in19/20": 3206
+    },
+    "outbound": {
+    "out14/15": "121",
+    "out15/16": "145",
+    "out16/17": "157",
+    "out17/18": "85",
+    "out18/19": "67"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Sudan": {
+    "abv": "SD",
+    "cord": {
+    "latitude": 12.862807,
+    "longitude": 30.217636
+    },
+    "inbound": {
+    "in14/15": "233",
+    "in15/16": "253",
+    "in16/17": "324",
+    "in17/18": "331",
+    "in18/19": "319",
+    "in19/20": 318
+    },
+    "outbound": {
+    "out14/15": "1",
+    "out15/16": "1",
+    "out16/17": "0",
+    "out17/18": "16",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Suriname": {
+    "abv": "SR",
+    "cord": {
+    "latitude": 3.9193050000000005,
+    "longitude": -56.02778299999999
+    },
+    "inbound": {
+    "in14/15": "82",
+    "in15/16": "84",
+    "in16/17": "83",
+    "in17/18": "80",
+    "in18/19": "74",
+    "in19/20": 57
+    },
+    "outbound": {
+    "out14/15": "13",
+    "out15/16": "28",
+    "out16/17": "6",
+    "out17/18": "2",
+    "out18/19": "6"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Sweden": {
+    "abv": "SE",
+    "cord": {
+    "latitude": 60.128161,
+    "longitude": 18.643501
+    },
+    "inbound": {
+    "in14/15": "4507",
+    "in15/16": "4297",
+    "in16/17": "4053",
+    "in17/18": "3543",
+    "in18/19": "3460",
+    "in19/20": 3213
+    },
+    "outbound": {
+    "out14/15": "1404",
+    "out15/16": "1441",
+    "out16/17": "1661",
+    "out17/18": "1830",
+    "out18/19": "1896"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 14678.80461,
+    "pub_masters": 14678.80461,
+    "pub_phd": 0
+    },
+    "yearly_c_o_l": "55,776"
+    },
+    "Switzerland": {
+    "abv": "CH",
+    "cord": {
+    "latitude": 46.818188,
+    "longitude": 8.227511999999999
+    },
+    "inbound": {
+    "in14/15": "1461",
+    "in15/16": "1480",
+    "in16/17": "1487",
+    "in17/18": "1382",
+    "in18/19": "1367",
+    "in19/20": 1340
+    },
+    "outbound": {
+    "out14/15": "1738",
+    "out15/16": "2032",
+    "out16/17": "2046",
+    "out17/18": "2125",
+    "out18/19": "2121"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "85,500"
+    },
+    "Syria": {
+    "abv": "SY",
+    "cord": {
+    "latitude": 34.802075,
+    "longitude": 38.996815000000005
+    },
+    "inbound": {
+    "in14/15": "792",
+    "in15/16": "783",
+    "in16/17": "827",
+    "in17/18": "726",
+    "in18/19": "566",
+    "in19/20": 463
+    },
+    "outbound": {
+    "out14/15": "1",
+    "out15/16": "1",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Taiwan": {
+    "abv": "TW",
+    "cord": {
+    "latitude": 23.69781,
+    "longitude": 120.96051499999999
+    },
+    "inbound": {
+    "in14/15": "20993",
+    "in15/16": "21127",
+    "in16/17": "21516",
+    "in17/18": "22454",
+    "in18/19": "23369",
+    "in19/20": 23724
+    },
+    "outbound": {
+    "out14/15": "880",
+    "out15/16": "980",
+    "out16/17": "1002",
+    "out17/18": "857",
+    "out18/19": "1270"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Tajikistan": {
+    "abv": "TJ",
+    "cord": {
+    "latitude": 38.861034000000004,
+    "longitude": 71.276093
+    },
+    "inbound": {
+    "in14/15": "254",
+    "in15/16": "235",
+    "in16/17": "204",
+    "in17/18": "222",
+    "in18/19": "229",
+    "in19/20": 242
+    },
+    "outbound": {
+    "out14/15": "18",
+    "out15/16": "17",
+    "out16/17": "16",
+    "out17/18": "15",
+    "out18/19": "7"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Tanzania": {
+    "abv": "TZ",
+    "cord": {
+    "latitude": -6.369028,
+    "longitude": 34.888822
+    },
+    "inbound": {
+    "in14/15": "867",
+    "in15/16": "840",
+    "in16/17": "811",
+    "in17/18": "824",
+    "in18/19": "834",
+    "in19/20": 859
+    },
+    "outbound": {
+    "out14/15": "1216",
+    "out15/16": "1254",
+    "out16/17": "1364",
+    "out17/18": "1556",
+    "out18/19": "1334"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Thailand": {
+    "abv": "TH",
+    "cord": {
+    "latitude": 15.870032,
+    "longitude": 100.992541
+    },
+    "inbound": {
+    "in14/15": "7217",
+    "in15/16": "7113",
+    "in16/17": "6893",
+    "in17/18": "6636",
+    "in18/19": "6503",
+    "in19/20": 6154
+    },
+    "outbound": {
+    "out14/15": "2096",
+    "out15/16": "2093",
+    "out16/17": "2763",
+    "out17/18": "2482",
+    "out18/19": "2859"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Togo": {
+    "abv": "TG",
+    "cord": {
+    "latitude": 8.619543,
+    "longitude": 0.824782
+    },
+    "inbound": {
+    "in14/15": "238",
+    "in15/16": "209",
+    "in16/17": "210",
+    "in17/18": "199",
+    "in18/19": "189",
+    "in19/20": 214
+    },
+    "outbound": {
+    "out14/15": "5",
+    "out15/16": "22",
+    "out16/17": "28",
+    "out17/18": "28",
+    "out18/19": "4"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Tonga": {
+    "abv": "TO",
+    "cord": {
+    "latitude": -21.178986,
+    "longitude": -175.198242
+    },
+    "inbound": {
+    "in14/15": "95",
+    "in15/16": "130",
+    "in16/17": "133",
+    "in17/18": "169",
+    "in18/19": "186",
+    "in19/20": 161
+    },
+    "outbound": {
+    "out14/15": "15",
+    "out15/16": "11",
+    "out16/17": "21",
+    "out17/18": "21",
+    "out18/19": "18"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Trinidad and Tobago": {
+    "abv": "TT",
+    "cord": {
+    "latitude": 10.691803,
+    "longitude": -61.222503
+    },
+    "inbound": {
+    "in14/15": "1464",
+    "in15/16": "1381",
+    "in16/17": "1304",
+    "in17/18": "1257",
+    "in18/19": "1202",
+    "in19/20": 37
+    },
+    "outbound": {
+    "out14/15": "282",
+    "out15/16": "356",
+    "out16/17": "295",
+    "out17/18": "277",
+    "out18/19": "275"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Tunisia": {
+    "abv": "TN",
+    "cord": {
+    "latitude": 33.886917,
+    "longitude": 9.537499
+    },
+    "inbound": {
+    "in14/15": "592",
+    "in15/16": "692",
+    "in16/17": "692",
+    "in17/18": "728",
+    "in18/19": "703",
+    "in19/20": 665
+    },
+    "outbound": {
+    "out14/15": "46",
+    "out15/16": "19",
+    "out16/17": "11",
+    "out17/18": "15",
+    "out18/19": "38"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Turkey": {
+    "abv": "TR",
+    "cord": {
+    "latitude": 38.963745,
+    "longitude": 35.243322
+    },
+    "inbound": {
+    "in14/15": "10724",
+    "in15/16": "10691",
+    "in16/17": "10586",
+    "in17/18": "10520",
+    "in18/19": "10159",
+    "in19/20": 9481
+    },
+    "outbound": {
+    "out14/15": "1889",
+    "out15/16": "705",
+    "out16/17": "46",
+    "out17/18": "78",
+    "out18/19": "143"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Turkmenistan": {
+    "abv": "TM",
+    "cord": {
+    "latitude": 38.969719,
+    "longitude": 59.556278000000006
+    },
+    "inbound": {
+    "in14/15": "201",
+    "in15/16": "216",
+    "in16/17": "231",
+    "in17/18": "234",
+    "in18/19": "280",
+    "in19/20": 272
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "1",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Tuvalu": {
+    "abv": "TV",
+    "cord": {
+    "latitude": -7.109535,
+    "longitude": 177.64933
+    },
+    "inbound": {
+    "in14/15": "7",
+    "in15/16": "4",
+    "in16/17": "3",
+    "in17/18": "4",
+    "in18/19": "4",
+    "in19/20": 4
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Uganda": {
+    "abv": "UG",
+    "cord": {
+    "latitude": 1.373333,
+    "longitude": 32.290275
+    },
+    "inbound": {
+    "in14/15": "762",
+    "in15/16": "776",
+    "in16/17": "779",
+    "in17/18": "818",
+    "in18/19": "848",
+    "in19/20": 870
+    },
+    "outbound": {
+    "out14/15": "527",
+    "out15/16": "722",
+    "out16/17": "845",
+    "out17/18": "837",
+    "out18/19": "797"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Ukraine": {
+    "abv": "UA",
+    "cord": {
+    "latitude": 48.379433,
+    "longitude": 31.16558
+    },
+    "inbound": {
+    "in14/15": "1551",
+    "in15/16": "1680",
+    "in16/17": "1817",
+    "in17/18": "1928",
+    "in18/19": "1953",
+    "in19/20": 1899
+    },
+    "outbound": {
+    "out14/15": "7",
+    "out15/16": "34",
+    "out16/17": "14",
+    "out17/18": "83",
+    "out18/19": "100"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "United Arab Emirates": {
+    "abv": "AE",
+    "cord": {
+    "latitude": 23.424076,
+    "longitude": 53.847818000000004
+    },
+    "inbound": {
+    "in14/15": "2878",
+    "in15/16": "2920",
+    "in16/17": "2753",
+    "in17/18": "2486",
+    "in18/19": "2361",
+    "in19/20": 2074
+    },
+    "outbound": {
+    "out14/15": "619",
+    "out15/16": "718",
+    "out16/17": "865",
+    "out17/18": "939",
+    "out18/19": "955"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "United Kingdom": {
+    "abv": "GB",
+    "cord": {
+    "latitude": 55.378051,
+    "longitude": -3.435973
+    },
+    "inbound": {
+    "in14/15": "10743",
+    "in15/16": "11599",
+    "in16/17": "11489",
+    "in17/18": "11460",
+    "in18/19": "11146",
+    "in19/20": 10756
+    },
+    "outbound": {
+    "out14/15": "38189",
+    "out15/16": "39140",
+    "out16/17": "39851",
+    "out17/18": "39403",
+    "out18/19": "39358"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "United States": {
+    "abv": "US",
+    "cord": {
+    "latitude": 37.09024,
+    "longitude": -95.712891
+    },
+    "inbound": {
+    "in14/15": null,
+    "in15/16": null,
+    "in16/17": null,
+    "in17/18": null,
+    "in18/19": null,
+    "in19/20": null
+    },
+    "outbound": {
+    "out14/15": null,
+    "out15/16": null,
+    "out16/17": null,
+    "out17/18": null,
+    "out18/19": null
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": 29478.041339999996,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": 24854.39,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": "65,856"
+    },
+    "Uruguay": {
+    "abv": "UY",
+    "cord": {
+    "latitude": -32.522779,
+    "longitude": -55.765834999999996
+    },
+    "inbound": {
+    "in14/15": "384",
+    "in15/16": "410",
+    "in16/17": "433",
+    "in17/18": "444",
+    "in18/19": "407",
+    "in19/20": 453
+    },
+    "outbound": {
+    "out14/15": "116",
+    "out15/16": "142",
+    "out16/17": "107",
+    "out17/18": "169",
+    "out18/19": "212"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Uzbekistan": {
+    "abv": "UZ",
+    "cord": {
+    "latitude": 41.377491,
+    "longitude": 64.585262
+    },
+    "inbound": {
+    "in14/15": "491",
+    "in15/16": "530",
+    "in16/17": "505",
+    "in17/18": "570",
+    "in18/19": "571",
+    "in19/20": 546
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "2",
+    "out16/17": "7",
+    "out17/18": "1",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Vanuatu": {
+    "abv": "VU",
+    "cord": {
+    "latitude": -15.376706,
+    "longitude": 166.959158
+    },
+    "inbound": {
+    "in14/15": "8",
+    "in15/16": "9",
+    "in16/17": "11",
+    "in17/18": "14",
+    "in18/19": "15",
+    "in19/20": 13
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "2",
+    "out16/17": "0",
+    "out17/18": "14",
+    "out18/19": "3"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Venezuela": {
+    "abv": "VE",
+    "cord": {
+    "latitude": 6.42375,
+    "longitude": -66.58973
+    },
+    "inbound": {
+    "in14/15": "7890",
+    "in15/16": "8267",
+    "in16/17": "8540",
+    "in17/18": "8371",
+    "in18/19": "7760",
+    "in19/20": 6855
+    },
+    "outbound": {
+    "out14/15": "26",
+    "out15/16": "23",
+    "out16/17": "1",
+    "out17/18": "10",
+    "out18/19": "1"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Vietnam": {
+    "abv": "VN",
+    "cord": {
+    "latitude": 14.058323999999999,
+    "longitude": 108.277199
+    },
+    "inbound": {
+    "in14/15": "18722",
+    "in15/16": "21403",
+    "in16/17": "22438",
+    "in17/18": "24325",
+    "in18/19": "24392",
+    "in19/20": 23777
+    },
+    "outbound": {
+    "out14/15": "922",
+    "out15/16": "1012",
+    "out16/17": "1147",
+    "out17/18": "1228",
+    "out18/19": "1235"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Wallis and Futuna": {
+    "abv": "WF",
+    "cord": {
+    "latitude": -13.768752,
+    "longitude": -177.156097
+    },
+    "inbound": {
+    "in14/15": "18",
+    "in15/16": "4",
+    "in16/17": "2",
+    "in17/18": "0",
+    "in18/19": "2",
+    "in19/20": 0
+    },
+    "outbound": {
+    "out14/15": "-",
+    "out15/16": "-",
+    "out16/17": "-",
+    "out17/18": "-",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Yemen": {
+    "abv": "YE",
+    "cord": {
+    "latitude": 15.552726999999999,
+    "longitude": 48.516388
+    },
+    "inbound": {
+    "in14/15": "516",
+    "in15/16": "599",
+    "in16/17": "658",
+    "in17/18": "517",
+    "in18/19": "398",
+    "in19/20": 320
+    },
+    "outbound": {
+    "out14/15": "0",
+    "out15/16": "0",
+    "out16/17": "0",
+    "out17/18": "0",
+    "out18/19": "0"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Zambia": {
+    "abv": "ZM",
+    "cord": {
+    "latitude": -13.133897,
+    "longitude": 27.849332
+    },
+    "inbound": {
+    "in14/15": "465",
+    "in15/16": "473",
+    "in16/17": "469",
+    "in17/18": "450",
+    "in18/19": "445",
+    "in19/20": 464
+    },
+    "outbound": {
+    "out14/15": "299",
+    "out15/16": "262",
+    "out16/17": "306",
+    "out17/18": "372",
+    "out18/19": "326"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    },
+    "Zimbabwe": {
+    "abv": "ZW",
+    "cord": {
+    "latitude": -19.015438,
+    "longitude": 29.154857
+    },
+    "inbound": {
+    "in14/15": "1245",
+    "in15/16": "1295",
+    "in16/17": "1330",
+    "in17/18": "1324",
+    "in18/19": "1343",
+    "in19/20": 1377
+    },
+    "outbound": {
+    "out14/15": "38",
+    "out15/16": "58",
+    "out16/17": "37",
+    "out17/18": "35",
+    "out18/19": "25"
+    },
+    "private_avg_tuit": {
+    "pvt_bachelor": null,
+    "pvt_masters": null,
+    "pvt_phd": null
+    },
+    "public_avg_tuit": {
+    "pub_bachelor": null,
+    "pub_masters": null,
+    "pub_phd": null
+    },
+    "yearly_c_o_l": null
+    }
+}
