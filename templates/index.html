@@ -1,35 +1,50 @@
 <!DOCTYPE html>
-<html>
-<!-- <link rel="stylesheet" href="/resource/styles.css"> -->
-<head> </head>
+<html lang="en">
 
-<body class='background-color-main'>
-    <h1>Header</h1>
+<!-- <<<<<<< HEAD:index.html -->
+<head> 
+    <meta charset="utf-8">
+    <title>Overseas Education Costs</title>
+
+    <!-- leaflet css -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin="" />
+
+    <!-- Our Css -->
+    <link rel="stylesheet" type="text/css" href="resource/styles.css">
+</head>
+
+    <body class='background-color-main'>
+    <h1>Take A Trip To Educate Yourself!</h1>
     <ul>
         <li><a href="">Home</a></li>
-        <li><a href="">Page 1</a></li>
+<!--         <li><a href="">Page 1</a></li>
         <li><a href="">Page 2</a></li>
-        <li><a href="">Page 3</a></li>
+        <li><a href="">Page 3</a></li> -->
     </ul>
     <br>
     <div >
-        <p class='paragraph-container'> Sed rhoncus cursus tellus nec tempor. Phasellus id est ullamcorper, venenatis nunc sed, efficitur magna. Vivamus nunc tortor, egestas quis mauris ac, consequat ultricies turpis. Aliquam erat volutpat. Proin euismod in metus sed sollicitudin. Vestibulum vel nunc sit amet arcu ullamcorper rutrum nec sit amet eros. Fusce blandit turpis vel erat ullamcorper aliquet. Maecenas convallis mauris felis, et consectetur elit tincidunt blandit.</p>
+        <p class='paragraph-container'> Where are the hot spots for student travel and costs associated with those locations! </p>
     </div>
-    <div class='container-1'> 
-        <p> Hear Map c</p> 
-    </div>
+    <!-- The div where we will inject our map -->
+        <div id="map"></div>
+    <!-- Drop down selection -->
     <select id="selDataset" onchange="optionChanged(this.value)"></select> 
-    <!-- <script>javascript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <!-- / is from root going down. This is relative path from app.py -->
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
     <!-- static folder is important.  -->
     <script src="/static/js/barchart.js"></script>
-
+    <!-- API key -->
+    <script type="text/javascript" src="Resources/config/config.js"></script>
+    <!-- JS -->
+    <script type="text/javascript" src="Resources/js/studyabroad.js"></script>
+    <!-- d3 -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
 </body>
 
 <footer> 
 </footer>
 
 </html>
-
