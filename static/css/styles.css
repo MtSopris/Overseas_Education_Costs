@@ -28,3 +28,11 @@ ul {
     color:white;
     background-color: #A9CEF4
 }
+
+html,
+body,
+#map {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
