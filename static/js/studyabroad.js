@@ -5,6 +5,8 @@ var myMap = L.map("map", {
   worldCopyJump: true,
 });
 
+
+
 // Adding a tile layer (the background map image) to our map
 // We use the addTo method to add objects to our map
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -16,7 +18,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: API_KEY
 }).addTo(myMap);
 
-L.geoJson()
+// L.geoJson()
 
 
 //read in data with var
