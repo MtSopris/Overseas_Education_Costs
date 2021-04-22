@@ -29,7 +29,7 @@ d3.json(university_url).then((data) => {
     .property("value", "")
     .text("Select Country");
 
-    country_col_array.map((country) => {
+    country_name_array.map((country) => {
     country_options
         .append("option")
         .property("value", country)
@@ -78,21 +78,26 @@ function optionChanged(selected_country) {
                     x: ['United States', selected_country],
                     y: [us_col, yearly_col],
                     name: 'Yearly cost of living',
-                    type: 'bar'
+                    type: 'bar',
+                    width: [0.5, 0.5]
+
                 };
                 
                 var trace2 = {
                     x: ['United States', selected_country],
                     y: [us_pub_bach_tuit, selected_pub_tuit],
                     name: 'Yearly tution, public bachelors degree',
-                    type: 'bar'
+                    type: 'bar', 
+                    width: [0.5, 0.5]
                 };
 
                 var trace3 = {
                     x: ['United States', selected_country],
                     y: [us_pvt_bach_tuit, selected_pvt_tuit],
                     name: 'Yearly tution, Private bachelors degree',
-                    type: 'bar'
+                    type: 'bar',
+                    width: [0.5, 0.5]
+
                 };
                 
                 var data1 = [trace1, trace2];
@@ -100,14 +105,15 @@ function optionChanged(selected_country) {
                 var data2 = [trace1, trace3];
 
                 
-                var layout = {barmode: 'stack'};
-                
+                var layout = {barmode: 'stack', 
+                              yaxis: {range: [0, 100000]}};
+
+
                 Plotly.newPlot('bar1', data1, layout);
 
                 Plotly.newPlot('bar2', data2, layout);
 
         // to do: 
-        // keep y scale static
         // reduce bar width
         //put next to each other
         //put selected country in center center, us far left and far right
