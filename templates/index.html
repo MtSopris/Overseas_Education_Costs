@@ -16,12 +16,10 @@
 
     <!-- Our Css -->
     <link rel="stylesheet" type="text/css" href="../static/css/styles.css">
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!-- d3 -->
     <script src="https://d3js.org/d3.v5.js"></script>
-    
-    <!-- Plotly -->
-    <script src="plotly-latest.min.js"></script>
-    <script src=“https://cdn.plot.ly/plotly-latest.min.js”></script>
 
 </head>
     <body class='background-color-main'>
@@ -42,9 +40,9 @@
     <!-- Drop down selection -->
     <select id="selDataset" onchange="optionChanged(this.value)"></select>
     <!-- Public tution bar chart-->
-            <div id="bar1"></div>
+            <div id='bar1'></div>
     <!-- Private tution bar chart -->
-            <div id="bar2"></div>
+            <div id='bar2'></div>
 
  <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
@@ -54,18 +52,22 @@
     <!-- Option 1: Bootstrap Bundle with Popper -->
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 
-    <!-- static folder is important.  -->
-    <script src="../static/js/barchart.js"></script>
-
     <!-- API key -->
     <script type="text/javascript" src="../static/config/config.js"></script>
 
     <!-- JS -->
     <script type="text/javascript" src="../static/js/studyabroad.js"></script>
+
+    <!-- static folder is important.  -->
+    <script type="text/javascript" src="../static/js/barchart.js"></script>
    
 </body>
 
-<footer> 
+<footer class="footer">
+<p class="footerP">© Brought to you by the Sour Patch Kids © **no affiliation with the delicious candy**</p>
+<a href="https://sourpatchkids.com/"><img class="candyicon" src="https://i.pinimg.com/originals/48/29/7e/48297ed0cd1992e34077a7a50cdd7cbf.jpg" atl="..."/></a>
+
 </footer>
+
 
 </html>
