@@ -12,7 +12,10 @@ ul {
     background-color: #dddddd;
 }
 
-
+h1{
+    text-align: center;
+    font: 40px Papyrus, sans-serif;
+}
 
 .background-color-main{
     background-color: #7EA0B7
@@ -26,13 +29,26 @@ ul {
 }
 .paragraph-container{
     color:white;
-    background-color: #A9CEF4
+    font: 15px Papyrus, sans-serif;
+    background-color: #A9CEF4;
+    text-align: center;
+}
+
+.d-block{
+    height: 80%
 }
 
 html,
 body,
 #map {
-  height: 100%;
-  padding: 0;
-  margin: 0;
+  height: 85%;
+  padding: 15;
+  margin: 15;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
 }
