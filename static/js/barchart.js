@@ -26,12 +26,6 @@ d3.json(university_url).then((data) => {
 
     country_options
     .append("option")
-<<<<<<< HEAD
-    .property("value", country)
-    .text(country);
-}); 
-    
-=======
     .property("value", "")
     .text("Select Country");
 
@@ -43,18 +37,12 @@ d3.json(university_url).then((data) => {
     }); 
         
 
->>>>>>> anna_barchart_js
 });
 
 function optionChanged(selected_country) {
     // when the dropdown menu is adjusted, it calls the optionChanged function and the value of dropdown is named selected_country
-<<<<<<< HEAD
-    console.log('selected country:')
-    console.log(selected_country)
-=======
     // console.log('selected country:')
     // console.log(selected_country)
->>>>>>> anna_barchart_js
     // call the data 
     d3.json('/data').then((data) => {
         // go through each element in data and see if key value matches dropdown menu value
@@ -82,49 +70,6 @@ function optionChanged(selected_country) {
                 var yearly_col=value[1]['yearly_c_o_l']  
                 // console.log(yearly_c_o_l)
                 var selected_pvt_tuit=value[1]['private_avg_tuit']['pvt_bachelor']
-<<<<<<< HEAD
-                console.log(selected_pvt_tuit)
-                var selected_pub_tuit=value[1]['public_avg_tuit']['pub_bachelor']
-                console.log(selected_pub_tuit)
-
-                var trace1 = {
-                    x: ['United States', selected_country],
-                    y: [us_col, yearly_col],
-                    name: 'Yearly cost of living',
-                    type: 'bar'
-                };
-                
-                var trace2 = {
-                    x: ['United States', selected_country],
-                    y: [us_pub_bach_tuit, selected_pub_tuit],
-                    name: 'Yearly tution, public bachelors degree',
-                    type: 'bar'
-                };
-
-                var trace3 = {
-                    x: ['United States', selected_country],
-                    y: [us_pvt_bach_tuit, selected_pvt_tuit],
-                    name: 'Yearly tution, Private bachelors degree',
-                    type: 'bar'
-                };
-                
-                var data1 = [trace1, trace2];
-
-                var data2 = [trace1, trace3];
-
-                
-                var layout = {barmode: 'stack'};
-                
-                Plotly.newPlot('bar1', data1, layout);
-
-                Plotly.newPlot('bar2', data2, layout);
-
-        // to do: 
-        // keep y scale static
-        // reduce bar width
-        //put next to each other
-        //put selected country in center center, us far left and far right
-=======
                 // console.log(selected_pvt_tuit)
                 var selected_pub_tuit=value[1]['public_avg_tuit']['pub_bachelor']
                 // console.log(selected_pub_tuit)
@@ -164,7 +109,6 @@ function optionChanged(selected_country) {
                 Plotly.newPlot('bar1', data1, layout);
 
 
->>>>>>> anna_barchart_js
 
             } 
 
@@ -175,13 +119,5 @@ function optionChanged(selected_country) {
     });
 
 
-<<<<<<< HEAD
 
 };
-
-//what would the plot look like if no value for the tuition? Can plotly handle it? 
-//error message: if tution cost do not show up, data was not available
-=======
-
-};
->>>>>>> anna_barchart_js
