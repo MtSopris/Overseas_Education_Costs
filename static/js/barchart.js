@@ -99,8 +99,10 @@ function optionChanged(selected_country) {
 
 
                 
-                var layout = {barmode: 'stack'
-                            //   yaxis: {range: [0, 100000]}
+                var layout = {barmode: 'stack',
+                            //   yaxis: {range: [0, 100000]},
+                            paper_bgcolor: 'rgba(169,206,244,1)',
+                            title: 'Can I afford it?'
                             };
 
 
