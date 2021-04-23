@@ -34,7 +34,6 @@ h1{
     font: 30px Papyrus, sans-serif;
     background-color: #A9CEF4;
     text-align: center;
-    line-height:10vh;
 }
 
 .dataclarify{
@@ -47,6 +46,10 @@ h1{
     line-height:5vh;
 }
 
+.dropdown{
+    margin: 15px;
+    padding: 15px;
+}
 
 .d-block{
     height: 80%
