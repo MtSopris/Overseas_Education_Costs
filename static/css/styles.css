@@ -37,6 +37,17 @@ h1{
     line-height:10vh;
 }
 
+.dataclarify{
+    color: black;
+    font: 18px Papyrus, sans-serif;
+    background-color: #A9CEF4;
+    text-align: left;
+    margin:15px;
+    padding: 15px;
+    line-height:5vh;
+}
+
+
 .d-block{
     height: 80%
 }
@@ -99,4 +110,5 @@ height:20vh;
 float:right;
 padding: 10px;
 margin: auto;
-}
+
+
