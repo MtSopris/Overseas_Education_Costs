@@ -17,6 +17,8 @@ h1{
     font: 60px Papyrus, sans-serif;
     margin: auto;
     background-color: gold;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
 }
 
 .background-color-main{
@@ -34,6 +36,8 @@ h1{
     font: 30px Papyrus, sans-serif;
     background-color: #A9CEF4;
     text-align: center;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
 }
 
 .dataclarify{
@@ -44,6 +48,8 @@ h1{
     margin:15px;
     padding: 15px;
     line-height:5vh;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
 }
 
 .dropdown{
@@ -51,8 +57,15 @@ h1{
     padding: 15px;
 }
 
-.d-block{
-    height: 80%
+.img-responsive{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.img-gif{
+    height:100%;
+    width: 100%;
+    object-fit: contain;
 }
 
 html,
@@ -120,5 +133,7 @@ height:20vh;
 float:right;
 padding: 10px;
 margin: auto;
+object-fit: contain;
+}
 
 
