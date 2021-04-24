@@ -37,7 +37,8 @@ function init() {
                     paper_bgcolor: 'rgba(169,206,244,1)',
                     title: 'Can I afford it?'
                     };
-        Plotly.newPlot('bar1', data1, layout);
+        var config = {responsive: true}
+        Plotly.newPlot('bar1', data1, layout, config);
             });
         };
 // Call init funciton to populate bar graph
@@ -121,7 +122,10 @@ function optionChanged(selected_country) {
                             paper_bgcolor: 'rgba(169,206,244,1)',
                             title: 'Can I afford it?'
                             };
-                Plotly.newPlot('bar1', data1, layout);
+                            
+                var config = {responsive: true}
+
+                Plotly.newPlot('bar1', data1, layout, config);
                 inbound_dict=value[1]['inbound']
                 // console.log(Object.values(inbound_dict))
                 inbound=Object.values(inbound_dict)
