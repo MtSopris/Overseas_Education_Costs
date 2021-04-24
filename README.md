@@ -9,15 +9,14 @@ This flask app serves an interactive dashboard with JavaScript that allows the u
 
 1. World Map - Displays the number of students traveling to and from the selected country
 
-![world_map.png] (static/images/world_map.png?raw=true “Title”)
+<image src='static\images\world_map.PNG' alt='world_map.PNG' style='hight:500px; width: 600px;'/>
 
 2. Bar Chart - Displays tuition costs and cost of living for the selected country including privet and public education
 
-![cost_living] (static/images/cost_living.PNG)
+<image src='static\images\cost_living.PNG' alt='cost_living.PNG' style='hight:450px; width: 600px;'/>
 
 3. Line Chart - Displays the number of students traveling to and from the US from the selected country.
 
-![year_in_out] (static/images/year_in_out.PNG)
 <image src='static\images\year_in_out.PNG' alt='year_in_out.PNG' style='hight:400px; width: 600px;'/>
 
 
