@@ -42,7 +42,7 @@ MongoDB
 ```
 https://www.mongodb.com/cloud/atlas?utm_content=lp0421_test_seo&utm_source=google&utm_campaign=gs_americas_united_states_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12798976238&gclid=CjwKCAjwg4-EBhBwEiwAzYAlsv1p89ZKcC1aNOetCKaMMY_PXMV5ZGyOOTx76DEDUdxFbY-ogQ3GXhoC4ogQAvD_BwE
 ```
-##Run insert_data.py to populate data to a mongo db for app to access the data
+## Run insert_data.py to populate data to a mongo db for app to access the data
 
 Referance the following in the index.html
 Leaflet, Apexcharts, D3, Plotly, Bootstrap, Mapbox
