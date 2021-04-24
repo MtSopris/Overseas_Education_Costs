@@ -78,15 +78,22 @@ padding: 5;
 margin: 5;  
 }
 
-.bar1
-
-html,
+/*html,
 body,
 #bar2{
 height: 85%;
 padding: 5;
 margin: 5;
 }   
+*/
+
+html,
+body,
+#chart{
+height: 65%;
+padding: 5;
+margin: 5;
+}
 
 .footer{
 background-color:gold;
