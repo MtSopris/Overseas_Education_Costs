@@ -37,7 +37,8 @@ function init() {
                     paper_bgcolor: 'rgba(169,206,244,1)',
                     title: 'Can I afford it?'
                     };
-        Plotly.newPlot('bar1', data1, layout);
+        var config = {responsive: true}
+        Plotly.newPlot('bar1', data1, layout, config);
             });
         };
 // Call init funciton to populate bar graph
@@ -121,20 +122,33 @@ function optionChanged(selected_country) {
                             paper_bgcolor: 'rgba(169,206,244,1)',
                             title: 'Can I afford it?'
                             };
-                Plotly.newPlot('bar1', data1, layout);
+
+                var config = {responsive: true}
+
+                Plotly.newPlot('bar1', data1, layout, config);
+
+                // APEX line chart begins here 
+
+                // save the inbound student values in a dictionary
                 inbound_dict=value[1]['inbound']
                 // console.log(Object.values(inbound_dict))
+                
+                // Save the values as an array 
                 inbound=Object.values(inbound_dict)
+
+                // Save the dates as an array to use for chart labels
                 dates=Object.keys(inbound_dict)
-                // loop through country and get the inbound values, add to empty array
+
+                // Save the outbound student values in a dictionary
                 outbound_dict=value[1]['outbound']
                 // console.log(Object.values(outbound_dict))
                 outbound=Object.values(outbound_dict)
-                console.log('inbound: ')
-                console.log(inbound.slice(0,5))
-                console.log('outbound: ')
-                console.log(outbound)
-                console.log('complete')
+                // console.log('inbound: ')
+                // console.log(inbound.slice(0,5))
+                // console.log('outbound: ')
+                // console.log(outbound)
+                // console.log('complete')
+
                 // this is the apex chart
                 var options = {
                     series: [{
