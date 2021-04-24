@@ -2,6 +2,8 @@ var university_url='/data'
 
 // console.log('test')
 country_name_array=[]
+var inbound = []
+var outbound = []
 var country_options=d3.select('#selDataset')
 
 function init() {
@@ -152,6 +154,110 @@ function optionChanged(selected_country) {
 
 
                 Plotly.newPlot('bar1', data1, layout);
+
+                inbound_dict=value[1]['inbound']
+                // console.log(Object.values(inbound_dict))
+                inbound=Object.values(inbound_dict)
+                dates=Object.keys(inbound_dict)
+
+                // loop through country and get the inbound values, add to empty array
+                outbound_dict=value[1]['outbound']
+                // console.log(Object.values(outbound_dict))
+                outbound=Object.values(outbound_dict)
+                console.log('inbound: ')
+                console.log(inbound.slice(0,5))
+                console.log('outbound: ')
+                console.log(outbound)
+                console.log('complete')
+
+                // this is the apex chart 
+                var options = {
+                    series: [{
+                    name: "Inbound students",
+                    data: inbound.slice(0,5)
+                    },
+                    {
+                    name: "Outbound students",
+                    data: outbound
+                    }
+                ],
+                    chart: {
+                    height: 350,
+                    type: 'line',
+                    zoom: {
+                    enabled: false
+                    },
+                },
+                dataLabels: {
+                    enabled: false
+                },
+                stroke: {
+                    width: [5, 7, 5],
+                    curve: 'straight',
+                    dashArray: [0, 8, 5]
+                },
+                title: {
+                    text: 'Inbound Vs Outbound Students',
+                    align: 'left'
+                },
+                legend: {
+                    tooltipHoverFormatter: function(val, opts) {
+                    return val + ' - ' + opts.w.globals.series[opts.seriesIndex][opts.dataPointIndex] + ''
+                    }
+                },
+                markers: {
+                    size: 0,
+                    hover: {
+                    sizeOffset: 6
+                    }
+                },
+                xaxis: {
+                    categories: dates, //['2014', '2015', '2016', '2017', '2018'],
+                },
+                tooltip: {
+                    y: [
+                    {
+                        title: {
+                        formatter: function (val) {
+                            return val + " (mins)"
+                        }
+                        }
+                    },
+                    {
+                        title: {
+                        formatter: function (val) {
+                            return val + " per session"
+                        }
+                        }
+                    },
+                    {
+                        title: {
+                        formatter: function (val) {
+                            return val;
+                        }
+                        }
+                    }
+                    ]
+                },
+                grid: {
+                    borderColor: '#f1f1f1',
+                }
+                };
+
+                //RUNS/CREATES NEW CHART 
+                var chart = new ApexCharts(document.querySelector("#chart"), options);
+                chart.render();
+
+                // UPDATE AND RUN NEW DATA CHART 
+                // Do not know how it works but it does! 
+                chart.updateSeries([{
+                    name: "Inbound students",
+                    data: inbound.slice(0,5)
+                    },
+                    {
+                    name: "Outbound students",
+                    data: outbound
+                }])
 
 
 
