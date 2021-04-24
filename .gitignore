@@ -27,3 +27,6 @@ hs_err_pid*
 
 #VS code files
 *.vscode/
+
+#config.js api key
+config.js

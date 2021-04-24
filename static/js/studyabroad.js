@@ -20,7 +20,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   maxZoom: 18,
   zoomOffset: -1,
   id: "mapbox/streets-v11",
-  accessToken: API_KEY
+  accessToken: 'pk.eyJ1IjoibXRzb3ByaXMiLCJhIjoiY2tuNnV4dzVlMGh4bjJxbjFseXJjazJrNCJ9.LFVl0HmYYof6TQ4SueplJA'
 }).addTo(myMap);
 
 //read in data with var
