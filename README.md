@@ -18,6 +18,7 @@ This flask app serves an interactive dashboard with JavaScript that allows the u
 3. Line Chart - Displays the number of students traveling to and from the US from the selected country.
 
 ![year_in_out] (static/images/year_in_out.PNG)
+<image src='static\images' alt='year_in_out.PNG' style='hight:400px; width: 600px;'/>
 
 
 
