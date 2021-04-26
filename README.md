@@ -11,7 +11,7 @@ This flask app serves an interactive dashboard with JavaScript that allows the u
 
 <image src='static\images\world_map.PNG' alt='world_map.PNG' style='hight:500px; width: 600px;'/>
 
-2. Bar Chart - Displays tuition costs and cost of living for the selected country including privet and public education
+2. Bar Chart - Displays tuition costs and cost of living for the selected country including private and public education
 
 <image src='static\images\cost_living.PNG' alt='cost_living.PNG' style='hight:450px; width: 600px;'/>
 
@@ -32,7 +32,7 @@ Python
 ```
 Pymongo
 ```
-<pip install pymong>
+<pip install pymongo>
 ```
 Flask
 ```
@@ -84,7 +84,7 @@ OECD - Tuition Data
 https://www.oecd-ilibrary.org/education/data/oecd-education-statistics/education-database-educational-expenditure-by-source-and-destination-edition-2020_f46db472-en
 ```
 
-Goolge - Country Locations
+Google - Country Locations
 ```
 https://developers.google.com/public-data/docs/canonical/countries_csv
 ```
