@@ -31,37 +31,33 @@
 
 </head>
     <body class='background-color-main'>
-  <!--   <div class="container"> -->
-    <div class='container'>
-        <div class='row'>
-        <div class="col-3 col-xs-12">
-            <!-- <a class="thumbnail" href="#"> -->
-                <img class="img-gif" img width="me-auto"  src="https://media.giphy.com/media/H48YKEw3fXrcvIF2xE/giphy.gif" alt="...">
-            <!-- </a> -->
-        </div>      
-        <div class="col-6 col-xs-12">
-            <!-- <a class="thumbnail" href="#">         -->
-            <img class="img-responsive" width="me-auto" src="https://wiki.optimy.com/wp-content/uploads/2017/07/powerful-education-770x383.jpg" alt="https://miro.medium.com/max/640/0*cyBfRBBUIs4XzH8n.">
-            <!-- </a> -->
-        </div>
-        <div class="col-3 col-xs-12">
+        <div class='container'>
+            <div class='row'>
+              <div class="col-3 col-xs-12">
+               <img class="img-gif" img width="me-auto"  src="https://media.giphy.com/media/H48YKEw3fXrcvIF2xE/giphy.gif" alt="...">
+        
+            </div>      
+             <div class="col-6 col-xs-12">
+                <img class="img-responsive" width="me-auto" src="https://wiki.optimy.com/wp-content/uploads/2017/07/powerful-education-770x383.jpg" alt="https://miro.medium.com/max/640/0*cyBfRBBUIs4XzH8n.">
+             </div>
+            <div class="col-3 col-xs-12">
             <!-- <a class="thumbnail" href="#"> -->
             <img class="img-gif" width="me-auto" src="https://media.giphy.com/media/oimCQlndn6KPe/giphy.gif" alt="...">
             <!-- </a> -->
         </div>
     </div>
     </div>
-    <h1>Destination?? EDUCATION!!</h1>
+    <h1>Destination: Education</h1>
 
     <div >
         <p class='paragraph-container'> Locate international education hotspots from your fellow world travelers! </p>
     </div>
-
+    <br>
     <!-- Leaflet Map ID and class for css -->
     <div id="map" class="center"></div>
     <br>
     <div >
-        <p class='dataclarify'>Inbound represents the students coming from the US into the selected country. Outbound refers to the students from the selected country studying in the United States. Data is from 2018-2019 school year.</p>
+        <p class='dataclarify'>Select a marker to view the inbound and outbound student count from that country. Inbound represents the students coming into the selected country from the US. Outbound refers to the students from the selected country studying in the United States. Data is from 2018-2019 school year.</p>
     </div>
 
     <!-- breakstatement to give space between map and barchart info    -->
@@ -70,13 +66,15 @@
     <!-- Drop down selection -->
     <select id="selDataset" class="dropdown" onchange="optionChanged(this.value)"></select>
     <!-- Public/Private tution bar chart-->
-            <div id='bar1' class="center"></div>
+        <div id='bar1' class="center"></div>
     <div >
-        <p class='dataclarify'>The data sets for private tuition were difficult to come by. If this intrigues you, it will give you a starting place for expected costs for countries.</p>
+        <br>
+        <p class='dataclarify'>Select a country from the drop down menu above to populate the graphs. The sample set provides a view into cost of living, tuition between private/public universities. The data sets for private tuition were difficult to come by. If this intrigues you, it will give you a starting place for expected costs for the listed countries.</p>
     </div>
-            <br>
+        <br>
     <!-- Apexbar Chart inbound vs outbound numbers -->
-            <div id='chart' class="center"></div>
+        <div id='chart' class="center"></div>
+        <br>
 
  <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
@@ -98,13 +96,20 @@
     <script type="text/javascript" src="../static/js/barchart.js"></script>
 
 
-   
 </body>
 
 <footer class="footer">
-<p class="footerP">© Brought to you by the Sour Patch Kids © **no affiliation with the delicious candy**</p>
-<a href="https://sourpatchkids.com/"><img class="candyicon" src="https://i.pinimg.com/originals/48/29/7e/48297ed0cd1992e34077a7a50cdd7cbf.jpg" atl="HTML"/></a>
-
+    <div class='row'>
+        <div class="col-4 col-s-12">
+        <p class="footerP">© Brought to you by coffee and sleep deprivation ©</p>
+        </div>
+        <div class="col-4 col-s-12">
+        <p class="footerN">Davis, Mitchell, Ossola, & Sours</p>
+        </div>
+        <div class="col-4 col-s-12">
+        <a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678"><img class="coffeeicon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-upQVY-tizUREgUrDouVH07hp8g8UT9cpLZuLN_fxJjXsDsF75fGIPbc6RKVQfcdb3VA&usqp=CAU" atl="HTML"/></a>
+        </div>
+    </div>
 </footer>
 
 
